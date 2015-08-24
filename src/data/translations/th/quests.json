@@ -432,21 +432,21 @@
     "201": {
         "code": "Bd1",
         "name": "Daily ออกรบ 1",
-        "desc": "เอาชนะ   กองเรือน้ำลึก",
+        "desc": "ชนะ   กองเรือน้ำลึก",
         "unlock": [ 216, 211, 212 ],
         "tracking": [ [0,1] ]
     },
     "216": {
         "code": "Bd2",
         "name": "Daily ออกรบ 2",
-        "desc": "เอาชนะ the เรือธง of   กองเรือน้ำลึก",
+        "desc": "ชนะ the เรือธง of   กองเรือน้ำลึก",
         "unlock": [ 210, 218, 214, 213 ],
         "tracking": [ [0,1] ]
     },
     "210": {
         "code": "Bd3",
         "name": "Daily ออกรบ 3",
-        "desc": "เอาชนะกองเรือน้ำลึก 10 ครั้ง (B rank+)",
+        "desc": "ชนะกองเรือน้ำลึก 10 ครั้ง (B rank+)",
         "tracking": [ [0,10] ]
     },
     "211": {
@@ -471,7 +471,7 @@
     "226": {
         "code": "Bd7",
         "name": "Daily ออกรบ 7",
-        "desc": "เอาชนะบอส 5 ลำในเวิล์ด 2",
+        "desc": "ชนะบอส 5 ลำในเวิล์ด 2",
         "unlock": [ 230 ],
         "tracking": [ [0,5] ]
     },
@@ -523,20 +523,20 @@
     "229": {
         "code": "Bw6",
         "name": "Weekly ออกรบ 6",
-        "desc": "เอาชนะ 12 บอส in horned nodes in เวิร์ล 4",
+        "desc": "ชนะ 12 บอส in horned nodes in เวิร์ล 4",
         "unlock": [ 242 ],
         "tracking": [ [0,12] ]
     },
     "241": {
         "code": "Bw7",
         "name": "Weekly ออกรบ 7",
-        "desc": "เอาชนะ 5 บอส in เวิร์ล [W3-3], [W3-4] หรือ [W3-5]",
+        "desc": "ชนะ 5 บอส in เวิร์ล [W3-3], [W3-4] หรือ [W3-5]",
         "tracking": [ [0,5] ]
     },
     "242": {
         "code": "Bw8",
         "name": "Weekly ออกรบ 8",
-        "desc": "เอาชนะ  บอส in เวิร์ล [W4-4]",
+        "desc": "ชนะ  บอส in เวิร์ล [W4-4]",
         "unlock": [ 243 ],
         "tracking": [ [0,1] ]
     },
@@ -587,14 +587,14 @@
     },
     "264": {
         "code": "Bm6",
-        "name": "ออกรบ the Aircraft Carrier Task Force ที่ the West",
-        "desc": "2 เรือบรรทุกเครื่องบินมาตรฐาน (CV) + 2 เรือพิฆาต (DD) + 2 ships ที่ [W4-2]. S-rank the บอส node",
+        "name": "Sortie the Aircraft Carrier Task Force to the West",
+        "desc": "บรรจุเรือบรรทุกเครื่องบินมาตรฐาน (CV) 2 ลำ + เรือพิฆาต (DD) 2 ลำ + เรืออะไรก็ได้อีก 2 ลำ ออกรบที่ [W4-2] และชนะบอสด้วย S-rank",
         "unlock": [ 266 ]
     },
     "266": {
         "code": "Bm7",
-        "name": "ส่ง the Counterattack ชุดเรือ",
-        "desc": "4 เรือพิฆาต (DD) (เรือพิฆาต (DD) เรือธง) + 1 เรือลาดตระเวนหนัก (CA) (Not เรือลาดตระเวนบรรทุกเครื่องบิน (CAV)) + 1 เรือลาดตระเวนเบา (CL) ที่ [W2-5] และ S-rank the บอส node"
+        "name": "Deploy the Counterattack Fleet",
+        "desc": "บรรจุเรือพิฆาต (DD) 4 ลำ (โดยมีเรือพิฆาต (DD) ลำหนึ่งเป็นเรือธง) + เรือลาดตระเวนหนัก (CA) 1 ลำ (ห้ามบรรจุเรือลาดตระเวนบรรทุกเครื่องบิน (CAV)) + เรือลาดตระเวนเบา (CL) 1 ลำ ออกรบที่ [W2-5] และชนะบอสด้วย S-rank"
     },
     
     
@@ -603,42 +603,42 @@
     
     "301": {
         "code": "C1",
-        "name": "First Exercise!",
-        "desc": "Challenge another กองเรือ in practice mode"
+        "name": "ซ้อมรบครั้งแรก!",
+        "desc": "ทำการซ้อมรบ 1 ครั้ง"
     },
     "303": {
         "code": "C2",
-        "name": "Daily Exercises 1",
-        "desc": "Challenge 3 other fleets in practice mode",
+        "name": "ดำเนินการซ้อมรบประจำวัน #1",
+        "desc": "ทำการซ้อมรบ 3 ครั้ง",
         "unlock": [ 304, 302 ],
         "tracking": [ [0,3] ]
     },
     "304": {
         "code": "C3",
-        "name": "Daily Exercises 2",
-        "desc": "Get 5 victories in practice mode within the same day",
+        "name": "ดำเนินการซ้อมรบประจำวัน #2",
+        "desc": "ชนะการซ้อมรบ 5 ครั้ง",
         "tracking": [ [0,5] ]
     },
     "302": {
         "code": "C4",
-        "name": "Weekly Exercises",
-        "desc": "(Weekly) Get 20 victories in practice mode",
+        "name": "ดำเนินการซ้อมรบประจำสัปดาห์",
+        "desc": "ชนะการซ้อมรบ 20 ครั้ง",
         "tracking": [ [0,20] ]
     },
     "307": {
         "code": "C5",
-        "name": "Improve the Efficiency of the กองเรือ",
-        "desc": "Get 3 victories in practice mode within the same day"
+        "name": "Improve the Efficiency of the Fleet",
+        "desc": "ชนะการซ้อมรบ 3 ครั้งภายในหนึ่งวัน"
     },
     "308": {
         "code": "C6",
-        "name": "Improve the Efficiency of the กองเรือ One More Time",
-        "desc": "Get 4 victories in practice mode within the same day"
+        "name": "Improve the Efficiency of the Fleet One More Time",
+        "desc": "ชนะการซ้อมรบ 4 ครั้งภายในหนึ่งวัน"
     },
     "309": {
         "code": "C7",
-        "name": "Strive ที่ Increase the Level of Training in Preparation for Another Rush ที่ the Northern Sea",
-        "desc": "Get 4 victories in Exercises within the same day"
+        "name": "Strive to Increase the Level of Training in Preparation for Another Rush at the Northern Sea",
+        "desc": "ชนะการซ้อมรบ 4 ครั้งภายในหนึ่งวัน"
     },
     
     
@@ -646,100 +646,100 @@
     
     "401": {
         "code": "D1",
-        "name": "First Expedition",
-        "desc": "Perform   expedition"
+        "name": "ส่งสำรวจครั้งแรก!",
+        "desc": "ส่งสำรวจ 1 ครั้ง"
     },
     "402": {
         "code": "D2",
-        "name": "Daily Expeditions 1",
-        "desc": "Perform 3 successful expeditions",
+        "name": "ดำเนินการส่งสำรวจประจำวัน #1",
+        "desc": "ส่งสำรวจ 3 ครั้ง",
         "unlock": [ 403 ],
         "tracking": [ [0,3] ]
     },
     "403": {
         "code": "D3",
-        "name": "Daily Expeditions 2",
-        "desc": "Perform 10 successful expeditions",
+        "name": "ดำเนินการส่งสำรวจประจำวัน #2",
+        "desc": "ส่งสำรวจ 10 ครั้ง",
         "tracking": [ [0,10] ]
     },
     "404": {
         "code": "D4",
-        "name": "Weekly Expeditions",
-        "desc": "(Weekly) Perform 30 successful expeditions",
+        "name": "ดำเนินการส่งสำรวจประจำสัปดาห์ #1",
+        "desc": "ส่งสำรวจ 30 ครั้ง",
         "tracking": [ [0,30] ]
     },
     "405": {
         "code": "D5",
-        "name": "The First เรือดำน้ำ Operation",
-        "desc": "Complete Expedition 30"
+        "name": "ปฏิบัติการเรือดำน้ำครั้งแรก!",
+        "desc": "ผ่านด่านสำรวจที่ 30"
     },
     "406": {
         "code": "D6",
-        "name": "The Second เรือดำน้ำ Operation",
-        "desc": "Complete Expedition 30 one more time"
+        "name": "ปฏิบัติการเรือดำน้ำครั้งที่สอง",
+        "desc": "ผ่านด่านสำรวจที่ 30 อีก 1 ครั้ง"
     },
     "408": {
         "code": "D7",
-        "name": "Continuation of เรือดำน้ำ Operations",
-        "desc": "Complete Expedition 30 two more times"
+        "name": "ปฏิบัติการเรือดำน้ำต่อ",
+        "desc": "ผ่านด่านสำรวจที่ 30 อีก 2 ครั้ง"
     },
     "409": {
         "code": "D8",
         "name": "Strategy Meeting โดยมี Overseas เรือดำน้ำ Dispatch!",
-        "desc": "Complete Expedition 31"
+        "desc": "ผ่านด่านสำรวจที่ 31"
     },
     "410": {
         "code": "D9",
-        "name": "Weekly Expedition 2",
-        "desc": "(Weekly) Complete expedition 37 หรือ 38",
+        "name": "ดำเนินการส่งสำรวจประจำสัปดาห์ #2",
+        "desc": "ผ่านด่านสำรวจที่ 37 หรือ 38",
         "unlock": [ 411 ],
         "tracking": [ [0,1] ]
     },
     "412": {
         "code": "D10",
-        "name": "Strengthen the Operation of the เรือประจัญบานบรรทุกเครื่องบิน (BBV)",
-        "desc": "Complete expedition 23"
+        "name": "Strengthen the Operation of the BBV",
+        "desc": "ผ่านด่านสำรวจที่ 23"
     },
     "411": {
         "code": "D11",
-        "name": "Weekly Expedition 3",
-        "desc": "(Weekly) Complete expedition 37 หรือ 38  total of 7 times",
+        "name": "ดำเนินการส่งสำรวจประจำสัปดาห์ #3",
+        "desc": "ผ่านด่านสำรวจที่ 37 หรือ 38 รวมกัน 7 ครั้ง",
         "tracking": [ [0,7] ]
     },
     "413": {
         "code": "D12",
         "name": "Strengthen the Operation of the เรือประจัญบานบรรทุกเครื่องบิน (BBV) (Cont.)",
-        "desc": "Complete expedition 23 four more times"
+        "desc": "ผ่านด่านสำรวจที่ 23 อีก 4 ครั้ง"
     },
     "414": {
         "code": "D13",
         "name": "Blue Waters เรือดำน้ำ Operation",
-        "desc": "Complete expedition 39"
+        "desc": "ผ่านด่านสำรวจที่ 39"
     },
     "415": {
         "code": "D14",
         "name": "Blue Waters Extended เรือดำน้ำ Operation",
-        "desc": "Complete expedition 39 two more times"
+        "desc": "ผ่านด่านสำรวจที่ 39 อีก 2 ครั้ง"
     },
     "416": {
         "code": "D15",
         "name": "Air Defence Exercises",
-        "desc": "Complete expedition 6 three times"
+        "desc": "ผ่านด่านสำรวจที่ 6 เป็นจำนวน 3 ครั้ง"
     },
     "417": {
         "code": "D16",
-        "name": "ส่ง the Decoy Task Force",
-        "desc": "Complete expedition 15"
+        "name": "Deploy the Decoy Task Force",
+        "desc": "ผ่านด่านสำรวจที่ 15"
     },
     "418": {
         "code": "D17",
         "name": "Naval Ceremony Preparations",
-        "desc": "Complete Expedition 7 twice"
+        "desc": "ผ่านด่านสำรวจที่ 7 เป็นจำนวน 2 ครั้ง"
     },
     "419": {
         "code": "D18",
         "name": "Naval Ceremony",
-        "desc": "Complete expedition 8"
+        "desc": "ผ่านด่านสำรวจที่ 8"
     },
     
     
@@ -748,12 +748,12 @@
     
     "501": {
         "code": "E1",
-        "name": "เติมทรัพยากรณ์ครั้งแรก",
+        "name": "เติมทรัพยากรณ์ครั้งแรก!",
         "desc": "เติมทรัพยากรณ์เรือ"
     },
     "502": {
         "code": "E2",
-        "name": "ส่งเรือเข้าอู่ซ่อมเรือครั้งแรก",
+        "name": "ส่งเรือเข้าอู่ซ่อมเรือครั้งแรก!",
         "desc": "ซ่อมเรือ 1 ลำ"
     },
     "503": {
@@ -810,27 +810,27 @@
     },
     "601": {
         "code": "F6",
-        "name": "ต่อเรือครั้งแรก",
+        "name": "ต่อเรือครั้งแรก!",
         "desc": "ต่อเรือ 1 ลำ"
     },
     "602": {
         "code": "F7",
-        "name": "ผลิตยุทโธปกรณ์ครั้งแรก",
+        "name": "ผลิตยุทโธปกรณ์ครั้งแรก!",
         "desc": "สร้างอุปกรณ์ 1 ครั้ง"
     },
     "603": {
         "code": "F8",
-        "name": "การรื้อถอนครั้งแรก",
+        "name": "รื้อถอนครั้งแรก!",
         "desc": "ทุบเรือ 1 ลำ"
     },
     "604": {
         "code": "F9",
-        "name": "การกำจัดยุทโธปกรณ์ครั้งแรก",
+        "name": "กำจัดยุทโธปกรณ์ครั้งแรก!",
         "desc": "ทุกอุปกรณ์ 1 ครั้ง"
     },
     "610": {
         "code": "F10",
-        "name": "การเตรียมการสำหรับการต่อเรือใหญ่ (ช่วงที่ 2)",
+        "name": "การเตรียมการสำหรับการต่อเรือใหญ่ (ส่วนที่ 2)",
         "desc": "ทุบอุปกรณ์ 4 ครั้ง"
     },
     "612": {
@@ -866,13 +866,13 @@
     },
     "618": {
         "code": "F17",
-        "name": "พัฒนายุทโธปกรณ์ครั้งแรก",
+        "name": "พัฒนายุทโธปกรณ์ครั้งแรก!",
         "desc": "พัฒนายุทโธปกรณ์ 1 ครั้ง"
     },
     "619": {
         "code": "F18",
-        "name": "Daily Equipment Modernisation",
-        "desc": "Perform equipment modernisation once",
+        "name": "ดำเนินการพัฒนายุทโธปกรณ์ประจำวัน",
+        "desc": "พัฒนายุทโธปกรณ์ 1 ครั้ง",
         "tracking": [ [0,1] ]
     },
     
@@ -882,93 +882,93 @@
     
     "701": {
         "code": "G1",
-        "name": "First Modernization",
-        "desc": "Perform  successful modernization"
+        "name": "ปรับปรุงเรือครั้งแรก!",
+        "desc": "ปรับปรุงเรือ 1 ครั้ง"
     },
     "702": {
         "code": "G2",
-        "name": "Daily Modernization",
-        "desc": "Perform 2 successful modernizations",
+        "name": "ดำเนินการปรับปรุงเรือประจำวัน",
+        "desc": "ปรับปรุงเรือ 2 ครั้ง",
         "unlock": [ 703 ],
         "tracking": [ [0,2] ]
     },
     "703": {
         "code": "G3",
-        "name": "Weekly Modernization",
-        "desc": "(Weekly) Perform 15 successful modernizations",
+        "name": "ดำเนินการปรับปรุงเรือประจำสัปดาห์",
+        "desc": "ปรับปรุงเรือ 15 ครั้ง",
         "tracking": [ [0,15] ]
     },
     "704": {
         "code": "G4",
-        "name": "Preparation for LSC (Part 1)",
-        "desc": "Perform 4 successful modernizations"
+        "name": "การเตรียมการสำหรับการต่อเรือใหญ่ (ส่วนที่ 1)",
+        "desc": "ปรับปรุงเรือ 4 ครั้ง"
     },
     
     
     
     "611": {
-        "name": "In Preparation of Love! (Part 1)",
-        "desc": "Scrap equipment 2 times ที่ show your love!"
+        "name": "เตรียมการแต่งงาน! (ส่วนที่ 1)",
+        "desc": "ทุบอุปกรณ์ 2 ครั้ง"
     },
     "306": {
-        "name": "In Preparation of Love (Part 2)",
-        "desc": "Show your love by getting 2 victories in practice mode."
+        "name": "เตรียมการแต่งงาน! (ส่วนที่ 2)",
+        "desc": "ชนะการซ้อมรบ 2 ครั้ง"
     },
     
     "280": {
         "code": "SN01",
         "name": "Second SN strategy, Initial Operations",
-        "desc": "Clear the Summer 2015 Event Map 2"
+        "desc": "ผ่าน E2"
     },
     "620": {
         "code": "SN02",
         "name": "Tidying Up the Arsenal",
-        "desc": " Scrap Equipment 5 times"
+        "desc": "ทุบอุปกรณ์ 5 ครั้ง"
     },
     "281": {
         "code": "SN03",
         "name": "Carry Out the Patrol for Main Force's Route",
-        "desc": "จม 6 น้ำลึก sumbarines"
+        "desc": "จมเรือดำน้ำน้ำลึก 6 ลำ"
     },
     "158": {
         "code": "SN04",
-        "name": "Assign the Murata ชุดเรือ Torpedo Bomber ที่ Akagi",
-        "desc": "Set Akagi as the Secretary Ship และ equip her โดยมี Type 97 Torpedo Bomber (Murata ชุดเรือ)"
+        "name": "Assign the Murata Squadron Torpedo Bomber to Akagi",
+        "desc": "บรรจุ Akagi เป็นเรือเลขา แล้วใส่ Type 97 Torpedo Bomber (Murata Squadron)"
     },
     "282": {
         "code": "SN05",
         "name": "Snatch Away the Air Superiority in the Solomon Sea Area",
-        "desc": "Clear the Summer 2015 Event Map 4"
+        "desc": "ผ่าน E4"
     },
     "159": {
         "code": "SN06",
-        "name": "Reassign the Murata ชุดเรือ Torpedo Bomber ที่ Shoukaku",
-        "desc": "Set Shoukaku as the Secretary Ship และ equip her โดยมี Type 97 Torpedo Bomber (Murata ชุดเรือ)"
+        "name": "Reassign the Murata Squadron Torpedo Bomber to Shoukaku",
+        "desc": "บรรจุ Shoukaku เป็นเรือเลขา แล้วใส่ Type 97 Torpedo Bomber (Murata Squadron)"
     },
     "310": {
         "code": "SN07",
         "name": "Naval Practice in Preparation for Operation FS",
-        "desc": "Get 4 victories in practice mode"
+        "desc": "ชนะการซ้อมรบ 4 ครั้ง"
     },
     "621": {
         "code": "SN08",
-        "name": "Model Conversion (Murata ชุดเรือ ที่ Tenzan)",
-        "desc": "บรรจุ Shoukaku as the Secretary Ship และ equip her โดยมี Type 97 Torpedo Bomber (Murata ชุดเรือ), then scrap 2 Tenzan"
+        "name": "การแปลงโมเดล 「บรรจุ Tenzan ในกองบิน Murata」",
+        "desc": "บรรจุ Shoukaku เป็นเรือเลขา แล้วใส่ Type 97 Torpedo Bomber (Murata Squadron), จากนั้นทุบ Tenzan 2 ลำ"
     },
     "160": {
         "code": "SN09",
-        "name": "Organize the Third กองเรือ of the Carrier Task Force",
-        "desc": "Create  Carrier Task Force (Combined กองเรือ) containing Shoukaku, Zuikaku และ Zuihou in the first กองเรือ"
+        "name": "Organize the Third Fleet of the Carrier Task Force",
+        "desc": "จัดกองเรือผสมคิโดบุไต (Carrier Task Force) ที่มี Shoukaku, Zuikaku และ Zuihou ในกองเรือหลัก"
     },
     "284": {
         "code": "SN10",
-        "name": "Establish  Bridgehead ที่ Operation FS",
-        "desc": "จม 10 น้ำลึก เรือบรรทุกเครื่องบินมาตรฐาน (AV)(L)"
+        "name": "Establish  Bridgehead to Operation FS",
+        "desc": "จมเรือบรรทุกเครื่องบินน้ำลึก 10 ลำ (CV)(AV)(L)"
     },
     "283": {
         "code": "SN11",
-        "name": "Eastern Area Dispatch กองเรือ, ออกรบ!",
-        "desc": "Clear the Summer 2015 Event Map 5"
+        "name": "Eastern Area Dispatch Fleet, Sortie!",
+        "desc": "ผ่าน E5"
     }
     
 }
