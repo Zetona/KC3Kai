@@ -25,7 +25,7 @@
     },
     "107": {
         "name": "จัด  Carrier Task Force!",
-        "desc": "บรรจุ  เรือบรรทุกเครื่องบินมาตรฐาน (AV)\/เรือบรรทุกเครื่องบินเบา (CVL) as  เรือธง และ 3 เรือพิฆาต (DD) ใน กองเรือหลัก."
+        "desc": "บรรจุ เรือบรรทุกเครื่องบินมาตรฐาน (CV) หรือ เรือบรรทุกเครื่องบินเบา (CVL) เป็นเรือธง และเรือพิฆาต (DD) 3 ลำ ในกองเรือหลัก."
     },
     "108": {
         "name": "จัด Tenryuu-ชั้นเรือ!",
@@ -65,7 +65,7 @@
     },
     "117": {
         "name": "จัด  Carrier Task Force in the กองเรือที่สอง!",
-        "desc": "บรรจุ  เรือบรรทุกเครื่องบินมาตรฐาน (AV)\/เรือบรรทุกเครื่องบินเบา (CVL) และ 3 เรือพิฆาต (DD) ใน กองเรือที่สอง."
+        "desc": "บรรจุ  เรือบรรทุกเครื่องบินมาตรฐาน (CV)\/เรือบรรทุกเครื่องบินเบา (CVL) และ 3 เรือพิฆาต (DD) ใน กองเรือที่สอง."
     },
     "118": {
         "name": "จัด Kongou-ชั้นเรือ!",
@@ -239,7 +239,7 @@
         "desc": "ส่ง ที่ เวิร์ล 1-1 และ clear the stage."
     },
     "204": {
-        "name": "ออกรบ ที่ the Coast of Nansei Islands!",
+        "name": "ออกรบไปยัง the Coast of Nansei Islands!",
         "desc": "ส่ง ที่ เวิร์ล 1-2 และ clear the stage."
     },
     "205": {
@@ -260,7 +260,7 @@
     },
     "209": {
         "name": "ออกรบ  Carrier Task Force!",
-        "desc": "Deply  กองเรือ โดยมี เรือบรรทุกเครื่องบินมาตรฐาน (AV)(L) as เรือธง และ 5 เรือพิฆาต (DD)\/เรือลาดตระเวนเบา (CL)\/เรือบรรทุกเครื่องบินทะเล (AV) for the escorts."
+        "desc": "Deply  กองเรือ โดยมี เรือบรรทุกเครื่องบินมาตรฐาน (CV)(L) as เรือธง และ 5 เรือพิฆาต (DD)\/เรือลาดตระเวนเบา (CL)\/เรือบรรทุกเครื่องบินทะเล (AV) for the escorts."
     },
     "215": {
         "name": "กองเรือที่สอง ออกรบ!",
@@ -272,59 +272,59 @@
     },
     "219": {
         "name": "ออกรบ the Mikawa กองเรือ!",
-        "desc": "ส่ง  กองเรือ โดยมี Choukai, Aoba, Kako, Furutaka, Tenryuu และ another fast ship."
+        "desc": "บรรจุ  กองเรือ โดยมี Choukai, Aoba, Kako, Furutaka, Tenryuu และ another fast ship."
     },
     "222": {
         "name": "ออกรบ the กองเรือพิฆาตที่ 6!",
-        "desc": "ส่ง  กองเรือ โดยมี ONLY Akatsuki, Hibiki, Inazuma, และ Ikazuchi."
+        "desc": "บรรจุ  กองเรือ โดยมี ONLY Akatsuki, Hibiki, Inazuma, และ Ikazuchi."
     },
     "223": {
         "name": "ออกรบ the Cruiser Division 4!",
-        "desc": "ส่ง  กองเรือ โดยมี Atago, Takao, Choukai, Maya และ any 2 ships. Score  victory against เวิร์ล 2-2 บอส."
+        "desc": "บรรจุ  กองเรือ โดยมี Atago, Takao, Choukai, Maya และ any 2 ships. Score  victory against เวิร์ล 2-2 บอส."
     },
     "224": {
         "name": "ออกรบ the Nishimura กองเรือ!",
-        "desc": "ส่ง  กองเรือ โดยมี Fusou, Yamashiro, Mogami, Shigure และ any 2 ships. Score  victory against เวิร์ล 2-3 บอส."
+        "desc": "บรรจุ  กองเรือ โดยมี Fusou, Yamashiro, Mogami, Shigure และ any 2 ships. Score  victory against เวิร์ล 2-3 บอส."
     },
     "225": {
         "name": "ออกรบ the Carrier Division 5!",
-        "desc": "ส่ง  กองเรือ โดยมี Shoukaku, Zuikaku และ any 4 ships. Score  victory against เวิร์ล 3-1 บอส."
+        "desc": "บรรจุ  กองเรือ โดยมี Shoukaku, Zuikaku และ any 4 ships. Score  victory against เวิร์ล 3-1 บอส."
     },
     "227": {
         "name": "ออกรบ the New Mikawa กองเรือ!",
-        "desc": "ส่ง  กองเรือ โดยมี Choukai, Aoba, Kinugasa, Kako, Furutaka และ Tenryuu. Score  victory against เวิร์ล 2-3 บอส."
+        "desc": "บรรจุ  กองเรือ โดยมี Choukai, Aoba, Kinugasa, Kako, Furutaka และ Tenryuu. Score  victory against เวิร์ล 2-3 บอส."
     },
     "231": {
         "name": "ออกรบ  เรือดำน้ำ กองเรือ!",
-        "desc": "ส่ง  กองเรือ โดยมี 2 เรือดำน้ำ (SS) และ 4 additional ships. Score  victory against เวิร์ล 2-3 บอส."
+        "desc": "บรรจุ  กองเรือ โดยมี 2 เรือดำน้ำ (SS) และ 4 additional ships. Score  victory against เวิร์ล 2-3 บอส."
     },
     "232": {
         "name": "ออกรบ  Naval Aviation Strike กองเรือ!",
-        "desc": "ส่ง  กองเรือ โดยมี 2 เรือประจัญบานบรรทุกเครื่องบิน (BBV), 2 เรือลาดตระเวนบรรทุกเครื่องบิน (CAV) และ 2 additional ships. Score  victory against เวิร์ล 4-2 บอส."
+        "desc": "บรรจุ  กองเรือ โดยมี 2 เรือประจัญบานบรรทุกเครื่องบิน (BBV), 2 เรือลาดตระเวนบรรทุกเครื่องบิน (CAV) และ 2 additional ships. Score  victory against เวิร์ล 4-2 บอส."
     },
     "233": {
         "name": "ออกรบ the Cruiser Division 6!",
-        "desc": "ส่ง  กองเรือ โดยมี Furutaka, Kako, Kinugasa, Aoba และ 2 additional ships. Score  S rank victory against เวิร์ล 2-3 บอส."
+        "desc": "บรรจุ  กองเรือ โดยมี Furutaka, Kako, Kinugasa, Aoba และ 2 additional ships. Score  S rank victory against เวิร์ล 2-3 บอส."
     },
     "239": {
         "name": "ออกรบ the กองเรือพิฆาตที่ 8!",
-        "desc": "ส่ง  กองเรือ โดยมี Asashio, Michishio, Ooshio, Arashio และ 2 additional ships. Score  victory against เวิร์ล 2-3 บอส."
+        "desc": "บรรจุ  กองเรือ โดยมี Asashio, Michishio, Ooshio, Arashio และ 2 additional ships. Score  victory against เวิร์ล 2-3 บอส."
     },
     "240": {
         "name": "ออกรบ the กองเรือพิฆาตที่ 18!",
-        "desc": "ส่ง  กองเรือ โดยมี Kasumi, Arare, Kagerou, Shiranui และ 2 additional ships. Score  victory against เวิร์ล 3-1 บอส."
+        "desc": "บรรจุ  กองเรือ โดยมี Kasumi, Arare, Kagerou, Shiranui และ 2 additional ships. Score  victory against เวิร์ล 3-1 บอส."
     },
     "244": {
         "name": "ส่ง the กองเรือพิฆาตที่ 30 (Gen-1)",
-        "desc": "ส่ง  กองเรือ that consists of Mutsuki (\u7766\u6708), Kisaragi (\u5982\u6708), Yayoi (\u5f25\u751f), Mochizuki (\u671b\u6708) และ up ที่ 2 additional DDs ที่ เวิร์ล 3-2 และ encounter the บอส. C rank หรือ above is required."
+        "desc": "บรรจุ  กองเรือ that consists of Mutsuki (\u7766\u6708), Kisaragi (\u5982\u6708), Yayoi (\u5f25\u751f), Mochizuki (\u671b\u6708) และ up ที่ 2 additional DDs ที่ เวิร์ล 3-2 และ encounter the บอส. C rank หรือ above is required."
     },
     "245": {
         "name": "In Preparation of Love! (Final)",
-        "desc": "ส่ง  กองเรือ โดยมี  high level (Lv.90~99) เรือธง ที่ 2-3 obtain   S rank victory against the บอส."
+        "desc": "บรรจุ  กองเรือ โดยมี  high level (Lv.90~99) เรือธง ที่ 2-3 obtain   S rank victory against the บอส."
     },
     "246": {
         "name": "Your First Mission Together!",
-        "desc": "ส่ง  กองเรือ ที่ 4-3 โดยมี  bonded ship of Lv.100 หรือ more as เรือธง และ score   S rank victory against the บอส."
+        "desc": "บรรจุ  กองเรือ ที่ 4-3 โดยมี  bonded ship of Lv.100 หรือ more as เรือธง และ score   S rank victory against the บอส."
     },
     "247": {
         "name": "ออกรบ   aviation battleship กองเรือ!",
@@ -332,152 +332,152 @@
     },
     "248": {
         "name": "30th Destroyer กองเรือ's Anti-เรือดำน้ำ Patrol",
-        "desc": "ส่ง Mutsuki, Yayoi, Uzuki และ Mochizuki ที่ เวิร์ล 1-5 และ reach the บอส, scoring at least  C rank."
+        "desc": "บรรจุ Mutsuki, Yayoi, Uzuki และ Mochizuki ที่ เวิร์ล 1-5 และ reach the บอส, scoring at least  C rank."
     },
     "250": {
         "name": "ส่ง the 2nd Carrier Division",
-        "desc": "ส่ง Hiryuu Kai Ni (\u98db\u9f8d\u6539\u4e8c) as the เรือธง, Souryuu (\u84bc\u9f8d) และ two destroyers ที่ เวิร์ล 5-2. You may add 2 other ships. Score   S rank victory against the บอส."
+        "desc": "บรรจุ Hiryuu Kai Ni (\u98db\u9f8d\u6539\u4e8c) as the เรือธง, Souryuu (\u84bc\u9f8d) และ two destroyers ที่ เวิร์ล 5-2. You may add 2 other ships. Score   S rank victory against the บอส."
     },
     "251": {
         "name": "ส่ง the Elite 2nd Carrier Division",
-        "desc": "ส่ง Souryuu Kai Ni (\u84bc\u9f8d\u6539\u4e8c) as the เรือธง, Hiryuu Kai Ni (\u98db\u9f8d\u6539\u4e8c) และ two destroyers ที่ เวิร์ล 4-3. You may add 2 other ships. Score   S rank victory against the บอส."
+        "desc": "บรรจุ Souryuu Kai Ni (\u84bc\u9f8d\u6539\u4e8c) as the เรือธง, Hiryuu Kai Ni (\u98db\u9f8d\u6539\u4e8c) และ two destroyers ที่ เวิร์ล 4-3. You may add 2 other ships. Score   S rank victory against the บอส."
     },
     "252": {
         "name": "ส่ง  Haruna-led กองเรือ",
-        "desc": "ส่ง  กองเรือ โดยมี Haruna Kai Ni (\u699b\u540d\u6539\u4e8c) as the เรือธง และ up ที่ 5 additional ships ที่ เวิร์ล 5-1 และ score   S rank victory against the บอส."
+        "desc": "บรรจุ  กองเรือ โดยมี Haruna Kai Ni (\u699b\u540d\u6539\u4e8c) as the เรือธง และ up ที่ 5 additional ships ที่ เวิร์ล 5-1 และ score   S rank victory against the บอส."
     },
     "253": {
         "name": "ส่ง the 601 Air Group",
-        "desc": "ส่ง  กองเรือ โดยมี Unryuu Kai (\u96f2\u9f8d\u6539) as the เรือธง ที่ เวิร์ล 5-2 และ score   S rank victory against the บอส."
+        "desc": "บรรจุ  กองเรือ โดยมี Unryuu Kai (\u96f2\u9f8d\u6539) as the เรือธง ที่ เวิร์ล 5-2 และ score   S rank victory against the บอส."
     },
     "254": {
         "name": "ส่ง  Light Carrier ชุดเรือ",
-        "desc": "ออกรบ  กองเรือ of 1-2 light aircraft carriers, 1 light cruiser และ 3-4 destroyers ที่ เวิร์ล 2-1 และ score   S rank victory against the บอส."
+        "desc": "บรรจุ  กองเรือ of 1-2 light aircraft carriers, 1 light cruiser และ 3-4 destroyers ที่ เวิร์ล 2-1 และ score   S rank victory against the บอส."
     },
     "255": {
         "name": "ส่ง  Torpedo ชุดเรือ ที่ Bashi Islands",
-        "desc": "ออกรบ  กองเรือ of 1-2 light cruisers (โดยมี one of them as the เรือธง) และ 4-5 destroyers ที่ เวิร์ล 2-2. Score  victory at the บอส และ จม the enemy เรือธง."
+        "desc": "บรรจุ  กองเรือ of 1-2 light cruisers (โดยมี one of them as the เรือธง) และ 4-5 destroyers ที่ เวิร์ล 2-2. Score  victory at the บอส และ จม the enemy เรือธง."
     },
     "258": {
         "name": "ออกรบ the 2nd ชุดเรือ",
-        "desc": "ส่ง Nagato (\u9577\u9580), Mutsu (\u9678\u5965), Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce) และ up ที่ 2 additional ships ที่ เวิร์ล 4-2. Score two S rank victories at the บอส node."
+        "desc": "บรรจุ Nagato (\u9577\u9580), Mutsu (\u9678\u5965), Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce) และ up ที่ 2 additional ships ที่ เวิร์ล 4-2. Score two S rank victories at the บอส node."
     },
     "260": {
         "name": "ส่ง the Battleship ชุดเรือ in the Northern Waters",
-        "desc": "ส่ง two battleships,  light aircraft carrier และ up ที่ three additional ships ที่ เวิร์ล 3-5 และ score   S rank victory at the บอส node."
+        "desc": "บรรจุ two battleships,  light aircraft carrier และ up ที่ three additional ships ที่ เวิร์ล 3-5 และ score   S rank victory at the บอส node."
     },
     "262": {
         "name": "ส่ง the Nishimura กองเรือ in the Southern Waters",
-        "desc": "ส่ง Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce), Mogami (\u6700\u4e0a), Shigure (\u6642\u96e8) และ Michishio (\u6e80\u6f6e) (you may also add another ship) ที่ เวิร์ล 5-1 และ score   S rank victory at the บอส node."
+        "desc": "บรรจุ Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce), Mogami (\u6700\u4e0a), Shigure (\u6642\u96e8) และ Michishio (\u6e80\u6f6e) (you may also add another ship) ที่ เวิร์ล 5-1 และ score   S rank victory at the บอส node."
     },
     "263": {
         "name": "ส่ง the Sixth ชุดเรือ ที่ the Southwestern Waters",
-        "desc": "ส่ง Furutaka (\u53e4\u9df9), Kako (\u52a0\u53e4), Aoba (\u9752\u8449), Kinugasa (\u8863\u7b20) และ up ที่ two additional ships ที่ เวิร์ล 2-5 และ score   S rank victory at the บอส node."
+        "desc": "บรรจุ Furutaka (\u53e4\u9df9), Kako (\u52a0\u53e4), Aoba (\u9752\u8449), Kinugasa (\u8863\u7b20) และ up ที่ two additional ships ที่ เวิร์ล 2-5 และ score   S rank victory at the บอส node."
     },
     "267": {
         "name": "ส่ง the 11th กองเรือพิฆาตที่",
-        "desc": "ส่ง Fubuki (\u5439\u96ea), Shirayuki(\u767d\u96ea), Hatsuyuki (\u521d\u96ea), Murakumo(\u53e2\u96f2) และ up ที่ 2 additional ships ที่ เวิร์ล 2-3 และ score  victory at the บอส node."
+        "desc": "บรรจุ Fubuki (\u5439\u96ea), Shirayuki(\u767d\u96ea), Hatsuyuki (\u521d\u96ea), Murakumo(\u53e2\u96f2) และ up ที่ 2 additional ships ที่ เวิร์ล 2-3 และ score  victory at the บอส node."
     },
     "268": {
         "name": "11th กองเรือพิฆาตที่'s Anti-เรือดำน้ำ Patrol",
-        "desc": "ส่ง Fubuki (\u5439\u96ea), Shirayuki(\u767d\u96ea), Hatsuyuki (\u521d\u96ea) และ Murakumo(\u53e2\u96f2) ที่ เวิร์ล 1-5 และ get  score of at least C at the บอส node."
+        "desc": "บรรจุ Fubuki (\u5439\u96ea), Shirayuki(\u767d\u96ea), Hatsuyuki (\u521d\u96ea) และ Murakumo(\u53e2\u96f2) ที่ เวิร์ล 1-5 และ get  score of at least C at the บอส node."
     },
     "269": {
         "name": "ส่ง the 21st กองเรือพิฆาตที่",
-        "desc": "ส่ง Hatsuharu (\u521d\u6625), Nenohi (\u5b50\u65e5), Wakaba (\u82e5\u8449) และ Hatsushimo (\u521d\u971c) และ up ที่ 2 additional ships ที่ เวิร์ล 3-1 และ score   S rank victory at the บอส node."
+        "desc": "บรรจุ Hatsuharu (\u521d\u6625), Nenohi (\u5b50\u65e5), Wakaba (\u82e5\u8449) และ Hatsushimo (\u521d\u971c) และ up ที่ 2 additional ships ที่ เวิร์ล 3-1 และ score   S rank victory at the บอส node."
     },
     "270": {
         "name": "ส่ง the 22nd กองเรือพิฆาตที่",
-        "desc": "ส่ง Satsuki (\u7690\u6708), Fumizuki (\u6587\u6708), Nagatsuki (\u9577\u6708), 1 more เรือพิฆาต (DD) และ up ที่ two additional ships ที่ เวิร์ล 1-4 และ score   S rank victory at the บอส node."
+        "desc": "บรรจุ Satsuki (\u7690\u6708), Fumizuki (\u6587\u6708), Nagatsuki (\u9577\u6708), 1 more เรือพิฆาต (DD) และ up ที่ two additional ships ที่ เวิร์ล 1-4 และ score   S rank victory at the บอส node."
     },
     "271": {
         "name": "ส่ง Nachi's ชุดเรือ",
-        "desc": "ออกรบ  กองเรือ โดยมี Nachi (\u90a3\u667a) as เรือธง, Hatsushimo (\u521d\u971c), Kasumi (\u971e), Ushio (\u6f6e), Akebono (\u66d9) และ one additional ship ที่ เวิร์ล 2-2 และ score   S rank victory at the บอส node."
+        "desc": "บรรจุ  กองเรือ โดยมี Nachi (\u90a3\u667a) as เรือธง, Hatsushimo (\u521d\u971c), Kasumi (\u971e), Ushio (\u6f6e), Akebono (\u66d9) และ one additional ship ที่ เวิร์ล 2-2 และ score   S rank victory at the บอส node."
     },
     "272": {
         "name": "ส่ง the Remodelled Anti-Aircraft Heavy Cruiser",
-        "desc": "ออกรบ  กองเรือ โดยมี Maya (\u6469\u8036) Kai หรือ Kai2, 1 เรือลาดตระเวนเบา (CL), 2 เรือพิฆาต (DD) และ up ที่ two additional ships ที่ เวิร์ล 2-3 และ score   S rank victory at the บอส node."
+        "desc": "บรรจุ  กองเรือ โดยมี Maya (\u6469\u8036) Kai หรือ Kai2, 1 เรือลาดตระเวนเบา (CL), 2 เรือพิฆาต (DD) และ up ที่ two additional ships ที่ เวิร์ล 2-3 และ score   S rank victory at the บอส node."
     },
     "273": {
         "name": "ส่ง the Mikawa กองเรือ ที่ Solomon Islands",
-        "desc": "ออกรบ the กองเรือหลัก โดยมี Choukai Kai2 as the เรือธง และ any five of Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari ที่ 5-1 และ S-Rank the บอส"
+        "desc": "บรรจุ the กองเรือหลัก โดยมี Choukai Kai2 as the เรือธง และ any five of Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari ที่ 5-1 และ S-Rank the บอส"
     },
     "274": {
         "name": "6th กองเรือพิฆาตที่'s Anti-เรือดำน้ำ Patrol",
-        "desc": "ส่ง Akatsuki, Hibiki (\u97ff หรือ \u0412\u0435\u0440\u043d\u044b\u0439), Inazuma และ Ikazuchi ที่ 1-5. C-Rank+ the บอส"
+        "desc": "บรรจุ Akatsuki, Hibiki (\u97ff หรือ \u0412\u0435\u0440\u043d\u044b\u0439), Inazuma และ Ikazuchi ที่ 1-5. C-Rank+ the บอส"
     },
     "275": {
         "name": "ส่ง the 18th ชุดเรือ",
-        "desc": "Tenryuu, Tatsuta, และ at least 2 other ships ที่ [W2-3] และ S-rank the บอส node"
+        "desc": "บรรจุ Tenryuu, Tatsuta, และ at least 2 other ships ที่ [W2-3] และ S-rank the บอส node"
     },
     "276": {
         "name": "ออกรบ the surface attack กองเรือ!",
-        "desc": "ออกรบ Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi, Inazuma ที่ 5-1 และ clear the map โดยมี   S-rank"
+        "desc": "บรรจุ Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi, Inazuma ที่ 5-1 และ clear the map โดยมี   S-rank"
     },
     "277": {
         "name": "DesDiv6 Anti-เรือดำน้ำ Mission!",
-        "desc": "ออกรบ Akatsuki Kai2 , Hibiki/Verniy, Ikazuchi, Inazuma ที่ 1-5 และ clear the map โดยมี at least -rank"
+        "desc": "บรรจุ Akatsuki Kai2 , Hibiki/Verniy, Ikazuchi, Inazuma ที่ 1-5 และ clear the map โดยมี at least -rank"
     },
     "278": {
         "name": "Rush the 1st Torpedo ชุดเรือ ที่ Operation KE",
-        "desc": "ออกรบ Abukuma as เรือธง โดยมี Hibiki/Вер, Hatsushimo, Wakaba, Samidare และ Shimakaze ที่ 3-2 และ B-Rank+ the บอส"
+        "desc": "บรรจุ Abukuma as เรือธง โดยมี Hibiki/Вер, Hatsushimo, Wakaba, Samidare และ Shimakaze ที่ 3-2 และ B-Rank+ the บอส"
     },
     "279": {
         "name": "Rush the 1st Torpedo ชุดเรือ ที่ Operation KE Again",
-        "desc": "ออกรบ Abukuma Kai-2 as เรือธง โดยมี Hibiki/Вер, Yuugumo, Naganami, Akigumo และ Shimakaze ที่ 3-2 และ B-Rank+ the บอส"
+        "desc": "บรรจุ Abukuma Kai-2 as เรือธง โดยมี Hibiki/Вер, Yuugumo, Naganami, Akigumo และ Shimakaze ที่ 3-2 และ B-Rank+ the บอส"
     },
     
     
     
     "201": {
         "code": "Bd1",
-        "name": "Daily ออกรบ 1",
-        "desc": "ชนะ   กองเรือน้ำลึก",
+        "name": "ดำเนินการออกรบประจำวัน #1",
+        "desc": "ชนะกองเรือน้ำลึก 1 ครั้ง",
         "unlock": [ 216, 211, 212 ],
         "tracking": [ [0,1] ]
     },
     "216": {
         "code": "Bd2",
-        "name": "Daily ออกรบ 2",
-        "desc": "ชนะ the เรือธง of   กองเรือน้ำลึก",
+        "name": "ดำเนินการออกรบประจำวัน #2",
+        "desc": "ชนะเรือธงของกองเรือน้ำลึก 1 ครั้ง",
         "unlock": [ 210, 218, 214, 213 ],
         "tracking": [ [0,1] ]
     },
     "210": {
         "code": "Bd3",
-        "name": "Daily ออกรบ 3",
-        "desc": "ชนะกองเรือน้ำลึก 10 ครั้ง (B rank+)",
+        "name": "ดำเนินการออกรบประจำวัน #3",
+        "desc": "ชนะกองเรือน้ำลึก 10 ครั้ง (B-rank ขึ้นไป)",
         "tracking": [ [0,10] ]
     },
     "211": {
         "code": "Bd4",
-        "name": "Daily ออกรบ 4",
-        "desc": "จมเรือบรรทุกเครื่องบินน้ำลึก 3 ลำ (CV)(AV)(L)",
+        "name": "ดำเนินการออกรบประจำวัน #4",
+        "desc": "จมเรือบรรทุกเครื่องบินน้ำลึก 3 ลำ (CV)(L)",
         "tracking": [ [0,3] ]
     },
     "218": {
         "code": "Bd5",
-        "name": "Daily ออกรบ 5",
+        "name": "ดำเนินการออกรบประจำวัน #5",
         "desc": "จมเรือขนส่งน้ำลึก 3 ลำ",
         "unlock": [ 226, 220 ],
         "tracking": [ [0,3] ]
     },
     "212": {
         "code": "Bd6",
-        "name": "Daily ออกรบ 6",
+        "name": "ดำเนินการออกรบประจำวัน #6",
         "desc": "จมเรือขนส่งน้ำลึก 5 ลำ",
         "tracking": [ [0,5] ]
     },
     "226": {
         "code": "Bd7",
-        "name": "Daily ออกรบ 7",
-        "desc": "ชนะบอส 5 ลำในเวิล์ด 2",
+        "name": "ดำเนินการออกรบประจำวัน #7",
+        "desc": "ชนะบอสใน [W2] เป็นจำนวน 5 ครั้ง",
         "unlock": [ 230 ],
         "tracking": [ [0,5] ]
     },
     "230": {
         "code": "Bd8",
-        "name": "Daily ออกรบ 8",
+        "name": "ดำเนินการออกรบประจำวัน #8",
         "desc": "จมเรือดำน้ำน้ำลึก 6 ลำ",
         "tracking": [ [0,6] ]
     },
@@ -488,68 +488,68 @@
     
     "214": {
         "code": "Bw1",
-        "name": "Weekly ออกรบ 1",
-        "desc": "ออกรบ 36 ครั้ง, เผชิญหน้าบอส 24 ครั้ง, ชนะบอส 12 ครั้ง, ได้ S-rank 6 ครั้ง",
+        "name": "ดำเนินการออกรบประจำสัปดาห์ #1",
+        "desc": "ออกรบ 36 ครั้ง, เผชิญหน้าบอส 24 ครั้ง, ชนะบอส 12 ครั้ง, และได้ S-rank 6 ครั้ง",
         "unlock": [ 221 ],
         "tracking": [ [0,36], [0,24], [0,12], [0,6] ]
     },
     "220": {
         "code": "Bw2",
-        "name": "Weekly ออกรบ 2",
-        "desc": "จม 20 น้ำลึก เรือบรรทุกเครื่องบินมาตรฐาน (AV)(L)",
+        "name": "ดำเนินการออกรบประจำสัปดาห์ #2",
+        "desc": "จมเรือบรรทุกเครื่องบินน้ำลึก (CV)(L) 20 ลำ",
         "unlock": [ 228 ],
         "tracking": [ [0,20] ]
     },
     "213": {
         "code": "Bw3",
-        "name": "Weekly ออกรบ 3",
-        "desc": "จม 20 น้ำลึก เรือขนส่ง",
+        "name": "ดำเนินการออกรบประจำสัปดาห์ #3",
+        "desc": "จมเรือขนส่งน้ำลึก 20 ลำ",
         "tracking": [ [0,20] ]
     },
     "221": {
         "code": "Bw4",
-        "name": "Weekly ออกรบ 4",
-        "desc": "จม 50 น้ำลึก เรือขนส่ง",
+        "name": "ดำเนินการออกรบประจำสัปดาห์ #4",
+        "desc": "จมเรือขนส่งน้ำลึก 50 ลำ",
         "unlock": [ 261, 257, 264 ],
         "tracking": [ [0,50] ]
     },
     "228": {
         "code": "Bw5",
-        "name": "Weekly ออกรบ 5",
-        "desc": "จม 15 submarines",
+        "name": "ดำเนินการออกรบประจำสัปดาห์ #5",
+        "desc": "จมเรือดำน้ำน้ำลึก 15 ลำ",
         "unlock": [ 229, 241, 613 ],
         "tracking": [ [0,15] ]
     },
     "229": {
         "code": "Bw6",
-        "name": "Weekly ออกรบ 6",
-        "desc": "ชนะ 12 บอส in horned nodes in เวิร์ล 4",
+        "name": "ดำเนินการออกรบประจำสัปดาห์ #6",
+        "desc": "ชนะบอสใน [W4] เป็นจำนวน 12 ครั้ง",
         "unlock": [ 242 ],
         "tracking": [ [0,12] ]
     },
     "241": {
         "code": "Bw7",
-        "name": "Weekly ออกรบ 7",
-        "desc": "ชนะ 5 บอส in เวิร์ล [W3-3], [W3-4] หรือ [W3-5]",
+        "name": "ดำเนินการออกรบประจำสัปดาห์ #7",
+        "desc": "ชนะบอสใน [W3-3], [W3-4] หรือ [W3-5] เป็นจำนวน 5 ครั้ง",
         "tracking": [ [0,5] ]
     },
     "242": {
         "code": "Bw8",
-        "name": "Weekly ออกรบ 8",
-        "desc": "ชนะ  บอส in เวิร์ล [W4-4]",
+        "name": "ดำเนินการออกรบประจำสัปดาห์ #8",
+        "desc": "ชนะบอสใน [W4-4]",
         "unlock": [ 243 ],
         "tracking": [ [0,1] ]
     },
     "243": {
         "code": "Bw9",
-        "name": "Weekly ออกรบ 9",
-        "desc": "ออกรบ ที่ [W5-2] และ S-rank the บอส node 2 times",
+        "name": "ดำเนินการออกรบประจำสัปดาห์ #9",
+        "desc": "ชนะบอสใน [W5-2] ด้วย S-rank เป็นจำนวน 2 ครั้ง",
         "tracking": [ [0,2] ]
     },
     "261": {
         "code": "Bw10",
-        "name": "Weekly ออกรบ 10",
-        "desc": "ออกรบ ที่ [W1-5] และ -rank+ the บอส node 3 times",
+        "name": "ดำเนินการออกรบประจำสัปดาห์ #10",
+        "desc": "ชนะบอสใน [W1-5] ด้วย A-rank ขึ้นไปเป็นจำนวน 3 ครั้ง",
         "tracking": [ [0,3] ]
     },
     
@@ -560,41 +560,41 @@
     "249": {
         "code": "Bm1",
         "name": "ส่ง the Fifth ชุดเรือ",
-        "desc": "ส่ง Myoukou, Nachi, Haguro, +3 ships ที่ [W2-5]. S-rank the บอส node",
+        "desc": "บรรจุเรือ Myoukou, Nachi, Haguro, + เรืออื่นๆ 3 ลำ ออกรบไปยัง [W2-5] และชนะบอสด้วย S-rank",
         "unlock": [ 265 ]
     },
     "256": {
         "code": "Bm2",
         "name": "ส่ง  เรือดำน้ำ กองเรือ ที่ เวิร์ล 6-1",
-        "desc": "ส่ง ที่ [W6-1] และ obtain   S-rank the บอส node 3 times",
+        "desc": "ออกรบไปยัง [W6-1] และชนะบอสด้วย S-rank เป็นจำนวน 3 ครั้ง",
         "tracking": [ [0,3] ]
     },
     "257": {
         "code": "Bm3",
         "name": "ส่ง  Torpedo ชุดเรือ",
-        "desc": "1~3 เรือลาดตระเวนเบา (CL) (เรือลาดตระเวนเบา (CL) เรือธง) และ 3~5 destroyers ที่ [W1-4]. S-rank the บอส node"
+        "desc": "บรรจุเรือลาดตระเวนเบา (CL) 1~3 ลำ (โดยมีเรือลาดตระเวนเบา (CL) ลำหนึ่งเป็นเรือธง)  + เรือพิฆาต (DD) 3~5 ลำ ออกรบไปยัง [W1-4] และชนะบอสด้วย S-rank"
     },
     "259": {
         "code": "Bm4",
-        "name": "ส่ง  Battleship ชุดเรือ",
-        "desc": "ส่ง 3 เรือประจัญบาน (BB)(V) + 1 เรือลาดตระเวนเบา (CL) + 2 ships ที่ [W5-1] และ S-rank the บอส node"
+        "name": "Deploy  Battleship Fleet",
+        "desc": "บรรจุเรือประจัญบาน (BB)(V) 2 ลำ + เรือลาดตระเวนเบา (CL) 1 ลำ + เรืออื่นๆ 2 ลำ ออกรบไปยัง [W5-1] และชนะบอสด้วย S-rank"
     },
     "265": {
         "code": "Bm5",
         "name": "Monthly Escort Duty",
-        "desc": "ส่ง  กองเรือ ที่ [W1-5] และ -rank+ the บอส node 10 times",
+        "desc": "ออกรบไปยัง [W1-5] และชนะบอสด้วย A-rank ขึ้นไป 10 ครั้ง",
         "tracking": [ [0,10] ]
     },
     "264": {
         "code": "Bm6",
         "name": "Sortie the Aircraft Carrier Task Force to the West",
-        "desc": "บรรจุเรือบรรทุกเครื่องบินมาตรฐาน (CV) 2 ลำ + เรือพิฆาต (DD) 2 ลำ + เรืออะไรก็ได้อีก 2 ลำ ออกรบที่ [W4-2] และชนะบอสด้วย S-rank",
+        "desc": "บรรจุเรือบรรทุกเครื่องบินมาตรฐาน (CV) 2 ลำ + เรือพิฆาต (DD) 2 ลำ + เรืออื่นๆ 2 ลำ ออกรบไปยัง [W4-2] และชนะบอสด้วย S-rank",
         "unlock": [ 266 ]
     },
     "266": {
         "code": "Bm7",
         "name": "Deploy the Counterattack Fleet",
-        "desc": "บรรจุเรือพิฆาต (DD) 4 ลำ (โดยมีเรือพิฆาต (DD) ลำหนึ่งเป็นเรือธง) + เรือลาดตระเวนหนัก (CA) 1 ลำ (ห้ามบรรจุเรือลาดตระเวนบรรทุกเครื่องบิน (CAV)) + เรือลาดตระเวนเบา (CL) 1 ลำ ออกรบที่ [W2-5] และชนะบอสด้วย S-rank"
+        "desc": "บรรจุเรือพิฆาต (DD) 4 ลำ (โดยมีเรือพิฆาต (DD) ลำหนึ่งเป็นเรือธง) + เรือลาดตระเวนหนัก (CA) 1 ลำ (ห้ามบรรจุเรือลาดตระเวนบรรทุกเครื่องบิน (CAV)) + เรือลาดตระเวนเบา (CL) 1 ลำ ออกรบไปยัง [W2-5] และชนะบอสด้วย S-rank"
     },
     
     
