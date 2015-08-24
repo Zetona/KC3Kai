@@ -221,11 +221,11 @@
     },
     "156": {
         "name": "ชุดเรือตอร์ปิโดที่ 1, เตรียมวิ่งไปสู่ทะเลเหนือ",
-        "desc": "บรรจุ Abukuma as เรือธง โดยมี Hibiki/Вер, Hatsushimo, Wakaba, Samidare และ Shimakaze ในกองเรือหลัก"
+        "desc": "บรรจุ Abukuma เป็นเรือธง โดยมี Hibiki/Вер, Hatsushimo, Wakaba, Samidare และ Shimakaze ในกองเรือหลัก"
     },
     "157": {
         "name": "ชุดเรือตอร์ปิโดที่ 1, เตรียมวิ่งไปสู่ทะเลเหนืออีกหนหนึ่ง",
-        "desc": "บรรจุ Abukuma Kai Ni as เรือธง โดยมี Hibiki/Вер, Yuugumo, Naganami, Akigumo และ Shimakaze ในกองเรือหลัก"
+        "desc": "บรรจุ Abukuma Kai Ni เป็นเรือธง โดยมี Hibiki/Вер, Yuugumo, Naganami, Akigumo และ Shimakaze ในกองเรือหลัก"
     },
     
     
@@ -420,7 +420,7 @@
     },
     "278": {
         "name": "Rush the 1st Torpedo ชุดเรือ ที่ Operation KE",
-        "desc": "บรรจุ Abukuma as เรือธง โดยมี Hibiki/Вер, Hatsushimo, Wakaba, Samidare และ Shimakaze ออกรบไปยัง [W3-2] และชนะบอสด้วย B-Rank ขึ้นไป"
+        "desc": "บรรจุ Abukuma เป็นเรือธง โดยมี Hibiki/Вер, Hatsushimo, Wakaba, Samidare และ Shimakaze ออกรบไปยัง [W3-2] และชนะบอสด้วย B-Rank ขึ้นไป"
     },
     "279": {
         "name": "Rush the 1st Torpedo ชุดเรือ ที่ Operation KE Again",
@@ -439,7 +439,7 @@
     "216": {
         "code": "Bd2",
         "name": "ออกรบประจำวัน #2",
-        "desc": "ชนะเรือธงของกองเรือน้ำลึก 1 ครั้ง",
+        "desc": "ชนะเรือธงกองเรือน้ำลึก 1 ครั้ง",
         "unlock": [ 210, 218, 214, 213 ],
         "tracking": [ [0,1] ]
     },
