@@ -1,484 +1,484 @@
 {
     "101": {
         "name": "First Formation!",
-        "desc": "Have 2 ships in your main fleet."
+        "desc": "บรรจุ 2 ships ใน กองเรือหลัก."
     },
     "102": {
-        "name": "Form a Destroyer Squadron!",
-        "desc": "Have 4 DD in your main fleet."
+        "name": "จัด  Destroyer ชุดเรือ!",
+        "desc": "บรรจุ 4 เรือพิฆาต (DD) ใน กองเรือหลัก."
     },
     "103": {
-        "name": "Form a Torpedo Squadron!",
-        "desc": "Have a CL as a flagship and 5 DD in your main fleet."
+        "name": "จัด  Torpedo ชุดเรือ!",
+        "desc": "บรรจุ  เรือลาดตระเวนเบา (CL) as  เรือธง และ 5 เรือพิฆาต (DD) ใน กองเรือหลัก."
     },
     "104": {
-        "name": "Form a Six Ship Fleet!",
-        "desc": "Have 6 ships in your main fleet."
+        "name": "จัด  Six Ship กองเรือ!",
+        "desc": "บรรจุ 6 ships ใน กองเรือหลัก."
     },
     "105": {
-        "name": "Form a Squadron with Two CL!",
-        "desc": "Have 2 CL in your main fleet."
+        "name": "จัด  ชุดเรือ โดยมี Two เรือลาดตระเวนเบา (CL)!",
+        "desc": "บรรจุ 2 เรือลาดตระเวนเบา (CL) ใน กองเรือหลัก."
     },
     "106": {
-        "name": "Form a Heavy Cruiser Squadron!",
-        "desc": "Have 2 CA in your main fleet."
+        "name": "จัด  Heavy Cruiser ชุดเรือ!",
+        "desc": "บรรจุ 2 เรือลาดตระเวนหนัก (CA) ใน กองเรือหลัก."
     },
     "107": {
-        "name": "Form a Carrier Task Force!",
-        "desc": "Have a CV\/CVL as a flagship and 3 DD in your main fleet."
+        "name": "จัด  Carrier Task Force!",
+        "desc": "บรรจุ  เรือบรรทุกเครื่องบินมาตรฐาน (AV)\/เรือบรรทุกเครื่องบินเบา (CVL) as  เรือธง และ 3 เรือพิฆาต (DD) ใน กองเรือหลัก."
     },
     "108": {
-        "name": "Form the Tenryuu-class!",
-        "desc": "Have Tenryuu (\u5929\u9f8d) and Tatsuta (\u9f8d\u7530) in your main fleet."
+        "name": "จัด Tenryuu-ชั้นเรือ!",
+        "desc": "บรรจุ Tenryuu (\u5929\u9f8d) และ Tatsuta (\u9f8d\u7530) ใน กองเรือหลัก."
     },
     "109": {
-        "name": "Form the Sendai-class!",
-        "desc": "Have Sendai (\u5ddd\u5185), Jintsuu (\u795e\u901a) and Naka (\u90a3\u73c2) in your main fleet."
+        "name": "จัด Sendai-ชั้นเรือ!",
+        "desc": "บรรจุ Sendai (\u5ddd\u5185), Jintsuu (\u795e\u901a) และ Naka (\u90a3\u73c2) ใน กองเรือหลัก."
     },
     "110": {
-        "name": "Form the Myoukou-class!",
-        "desc": "Have Myoukou (\u5999\u9ad8), Nachi (\u90a3\u667a), Ashigara (\u8db3\u67c4) and Haguro (\u7fbd\u9ed2) in your main fleet."
+        "name": "จัด Myoukou-ชั้นเรือ!",
+        "desc": "บรรจุ Myoukou (\u5999\u9ad8), Nachi (\u90a3\u667a), Ashigara (\u8db3\u67c4) และ Haguro (\u7fbd\u9ed2) ใน กองเรือหลัก."
     },
     "111": {
-        "name": "Form the Fusou-class!",
-        "desc": "Have Fusou (\u6276\u6851) and Yamashiro (\u5c71\u57ce) in your main fleet."
+        "name": "จัด Fusou-ชั้นเรือ!",
+        "desc": "บรรจุ Fusou (\u6276\u6851) และ Yamashiro (\u5c71\u57ce) ใน กองเรือหลัก."
     },
     "112": {
-        "name": "Form the Ise-class!",
-        "desc": "Have Ise (\u4f0a\u52e2) and Hyuuga (\u65e5\u5411) in your main fleet."
+        "name": "จัด Ise-ชั้นเรือ!",
+        "desc": "บรรจุ Ise (\u4f0a\u52e2) และ Hyuuga (\u65e5\u5411) ใน กองเรือหลัก."
     },
     "113": {
-        "name": "Form the Main Fleet with BB and CA!",
-        "desc": "Have a BB and 2 CA in your main fleet."
+        "name": "จัด กองเรือหลัก โดยมี เรือประจัญบาน (BB) และ เรือลาดตระเวนหนัก (CA)!",
+        "desc": "บรรจุ  เรือประจัญบาน (BB) และ 2 เรือลาดตระเวนหนัก (CA) ใน กองเรือหลัก."
     },
     "114": {
-        "name": "Form the Nagumo Task Force!",
-        "desc": "Have ONLY Akagi (\u8d64\u57ce), Kaga (\u52a0\u8cc0), Hiryuu (\u98db\u9f8d) and Souryuu (\u84bc\u9f8d) in your main fleet."
+        "name": "จัด Nagumo Task Force!",
+        "desc": "บรรจุ ONLY Akagi (\u8d64\u57ce), Kaga (\u52a0\u8cc0), Hiryuu (\u98db\u9f8d) และ Souryuu (\u84bc\u9f8d) ใน กองเรือหลัก."
     },
     "115": {
-        "name": "Form the Second Fleet!",
-        "desc": "Have a flagship in your second fleet."
+        "name": "จัดตั้งกองเรือที่สอง!",
+        "desc": "บรรจุ  เรือธง ใน กองเรือที่สอง."
     },
     "116": {
-        "name": "Ready a Seaplane Tender",
-        "desc": "Have an AV in your main fleet."
+        "name": "Ready  Seaplane Tender",
+        "desc": "บรรจุ   เรือบรรทุกเครื่องบินทะเล (AV) ใน กองเรือหลัก."
     },
     "117": {
-        "name": "Form a Carrier Task Force in the Second Fleet!",
-        "desc": "Have a CV\/CVL and 3 DD in your second fleet."
+        "name": "จัด  Carrier Task Force in the กองเรือที่สอง!",
+        "desc": "บรรจุ  เรือบรรทุกเครื่องบินมาตรฐาน (AV)\/เรือบรรทุกเครื่องบินเบา (CVL) และ 3 เรือพิฆาต (DD) ใน กองเรือที่สอง."
     },
     "118": {
-        "name": "Form the Kongou-class!",
-        "desc": "Have Kongou (\u91d1\u525b), Hiei (\u6bd4\u53e1), Haruna (\u699b\u540d) and Kirishima (\u9727\u5cf6) in your main fleet."
+        "name": "จัด Kongou-ชั้นเรือ!",
+        "desc": "บรรจุ Kongou (\u91d1\u525b), Hiei (\u6bd4\u53e1), Haruna (\u699b\u540d) และ Kirishima (\u9727\u5cf6) ใน กองเรือหลัก."
     },
     "119": {
-        "name": "Form the Mikawa Fleet!",
-        "desc": "Have Choukai (\u9ce5\u6d77), Aoba (\u9752\u8449), Kako (\u52a0\u53e4), Furutaka (\u53e4\u9df9), Tenryuu (\u5929\u9f8d) and a FAST speed ship in your main fleet."
+        "name": "จัด Mikawa กองเรือ!",
+        "desc": "บรรจุ Choukai (\u9ce5\u6d77), Aoba (\u9752\u8449), Kako (\u52a0\u53e4), Furutaka (\u53e4\u9df9), Tenryuu (\u5929\u9f8d) และ  FAST speed ship ใน กองเรือหลัก."
     },
     "120": {
-        "name": "Form the Destroyer Division 6!",
-        "desc": "Have ONLY Akatsuki (\u6681), Hibiki (\u97ff), Inazuma (\u96f7) and Ikazuchi (\u96fb) in your main fleet."
+        "name": "จัด กองเรือพิฆาตที่ 6!",
+        "desc": "บรรจุ ONLY Akatsuki (\u6681), Hibiki (\u97ff), Inazuma (\u96f7) และ Ikazuchi (\u96fb) ใน กองเรือหลัก."
     },
     "121": {
-        "name": "Form the Cruiser Division 4!",
-        "desc": "Have Atago (\u611b\u5b95), Takao (\u9ad8\u96c4), Choukai (\u9ce5\u6d77) and Maya (\u6469\u8036) in your main fleet."
+        "name": "จัด Cruiser Division 4!",
+        "desc": "บรรจุ Atago (\u611b\u5b95), Takao (\u9ad8\u96c4), Choukai (\u9ce5\u6d77) และ Maya (\u6469\u8036) ใน กองเรือหลัก."
     },
     "122": {
-        "name": "Form the Nishimura Fleet!",
-        "desc": "Have Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce), Mogami (\u6700\u4e0a) and Shigure (\u6642\u96e8) in your main fleet."
+        "name": "จัด Nishimura กองเรือ!",
+        "desc": "บรรจุ Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce), Mogami (\u6700\u4e0a) และ Shigure (\u6642\u96e8) ใน กองเรือหลัก."
     },
     "123": {
-        "name": "Form the Carrier Division 5!",
-        "desc": "Have Shoukaku (\u7fd4\u9db4), Zuikaku (\u745e\u9db4) and 2 DD in your main fleet."
+        "name": "จัด Carrier Division 5!",
+        "desc": "บรรจุ Shoukaku (\u7fd4\u9db4), Zuikaku (\u745e\u9db4) และ 2 เรือพิฆาต (DD) ใน กองเรือหลัก."
     },
     "124": {
-        "name": "Form the New Mikawa Fleet!",
-        "desc": "Have Choukai (\u9ce5\u6d77), Aoba (\u9752\u8449), Kinugasa (\u8863\u7b20), Kako (\u52a0\u53e4), Furutaka (\u53e4\u9df9) and Tenryuu (\u5929\u9f8d) in your main fleet."
+        "name": "จัด New Mikawa กองเรือ!",
+        "desc": "บรรจุ Choukai (\u9ce5\u6d77), Aoba (\u9752\u8449), Kinugasa (\u8863\u7b20), Kako (\u52a0\u53e4), Furutaka (\u53e4\u9df9) และ Tenryuu (\u5929\u9f8d) ใน กองเรือหลัก."
     },
     "125": {
-        "name": "Form a Submarine Fleet!",
-        "desc": "Have 2 SS in your main fleet."
+        "name": "จัด  เรือดำน้ำ กองเรือ!",
+        "desc": "บรรจุ 2 เรือดำน้ำ (SS) ใน กองเรือหลัก."
     },
     "126": {
-        "name": "Form a Naval Aviation Strike Fleet!",
-        "desc": "Have 2 BBV and 2 CAV in your main fleet."
+        "name": "จัด  Naval Aviation Strike กองเรือ!",
+        "desc": "บรรจุ 2 เรือประจัญบานบรรทุกเครื่องบิน (BBV) และ 2 เรือลาดตระเวนบรรทุกเครื่องบิน (CAV) ใน กองเรือหลัก."
     },
     "127": {
-        "name": "Form a Medium-Sized Submarine Fleet!",
-        "desc": "Have 3 SS in your main fleet."
+        "name": "จัด  Medium-Sized เรือดำน้ำ กองเรือ!",
+        "desc": "บรรจุ 3 เรือดำน้ำ (SS) ใน กองเรือหลัก."
     },
     "128": {
-        "name": "Form the Cruiser Division 6!",
-        "desc": "Have Furutaka (\u53e4\u9df9), Kako(\u52a0\u53e4), Aoba (\u9752\u8449) and Kinugasa (\u8863\u7b20) in your main fleet."
+        "name": "จัด Cruiser Division 6!",
+        "desc": "บรรจุ Furutaka (\u53e4\u9df9), Kako(\u52a0\u53e4), Aoba (\u9752\u8449) และ Kinugasa (\u8863\u7b20) ใน กองเรือหลัก."
     },
     "129": {
-        "name": "Form the 5th Fleet!",
-        "desc": "Have Nachi (\u90a3\u667a), Ashigara (\u8db3\u67c4), Tama (\u591a\u6469), and Kiso (\u6728\u66fe) in your fleet."
+        "name": "จัด 5th กองเรือ!",
+        "desc": "บรรจุ Nachi (\u90a3\u667a), Ashigara (\u8db3\u67c4), Tama (\u591a\u6469), และ Kiso (\u6728\u66fe) ใน กองเรือ."
     },
     "130": {
-        "name": "Form the Torpedo Squadron 1!",
-        "desc": "Have Abukuma (\u963f\u6b66\u9688), Akebono (\u66d9), Ushio (\u6f6e), Kasumi (\u971e) and Shiranui (\u4e0d\u77e5\u706b) in your fleet."
+        "name": "จัด Torpedo ชุดเรือ 1!",
+        "desc": "บรรจุ Abukuma (\u963f\u6b66\u9688), Akebono (\u66d9), Ushio (\u6f6e), Kasumi (\u971e) และ Shiranui (\u4e0d\u77e5\u706b) ใน กองเรือ."
     },
     "131": {
-        "name": "Form the Destroyer Division 8!",
-        "desc": "Have Asashio (\u671d\u6f6e), Michishio (\u6e80\u6f6e), Ooshio (\u5927\u6f6e) and Arashio (\u8352\u6f6e) in your fleet."
+        "name": "จัด กองเรือพิฆาตที่ 8!",
+        "desc": "บรรจุ Asashio (\u671d\u6f6e), Michishio (\u6e80\u6f6e), Ooshio (\u5927\u6f6e) และ Arashio (\u8352\u6f6e) ใน กองเรือ."
     },
     "132": {
-        "name": "Form the Destroyer Division 18!",
-        "desc": "Have ONLY Kasumi (\u971e), Arare (\u9730), Kagerou (\u967d\u708e) and Shiranui (\u4e0d\u77e5\u706b) in your fleet."
+        "name": "จัด กองเรือพิฆาตที่ 18!",
+        "desc": "บรรจุ ONLY Kasumi (\u971e), Arare (\u9730), Kagerou (\u967d\u708e) และ Shiranui (\u4e0d\u77e5\u706b) ใน กองเรือ."
     },
     "133": {
-        "name": "Form the Destroyer Division 30 (Gen-1)!",
-        "desc": "Have ONLY Mutsuki (\u7766\u6708), Kisaragi (\u5982\u6708), Yayoi (\u5f25\u751f) and Mochizuki (\u671b\u6708) in your fleet."
+        "name": "จัด กองเรือพิฆาตที่ 30 (Gen-1)!",
+        "desc": "บรรจุ ONLY Mutsuki (\u7766\u6708), Kisaragi (\u5982\u6708), Yayoi (\u5f25\u751f) และ Mochizuki (\u671b\u6708) ใน กองเรือ."
     },
     "134": {
         "name": "In Preparation of Love! (Part 3)",
-        "desc": "Organize your feelings and deploy your fleet with a high level flagship (Lv.90~99)!"
+        "desc": "Organize your feelings และ ส่ง your กองเรือ โดยมี  high level เรือธง (Lv.90~99)!"
     },
     "135": {
         "name": "Journey Anew!",
-        "desc": "Organize a fleet of 6 ships with your newly bonded ship of Lv.100 or more as flagship!"
+        "desc": "Organize  กองเรือ of 6 ships โดยมี your newly bonded ship of Lv.100 หรือ more as เรือธง!"
     },
     "136": {
-        "name": "Form the 30th Destroyer Fleet (Gen.2)",
-        "desc": "Have only Mutsuki (\u7766\u6708), Yayoi (\u5f25\u751f), Uzuki (\u536f\u6708) and Mochizuki (\u671b\u6708) in your fleet."
+        "name": "จัด 30th Destroyer กองเรือ (รุ่นที่2)",
+        "desc": "บรรจุ only Mutsuki (\u7766\u6708), Yayoi (\u5f25\u751f), Uzuki (\u536f\u6708) และ Mochizuki (\u671b\u6708) ใน กองเรือ."
     },
     "137": {
-        "name": "Form the 5th Fleet",
-        "desc": "Have Myoukou (\u5999\u9ad8), Nachi (\u90a3\u667a) and Haguro (\u7fbd\u9ed2) in your fleet."
+        "name": "จัดกองเรือลาดตระเวนที่ 5",
+        "desc": "บรรจุ Myoukou (\u5999\u9ad8), Nachi (\u90a3\u667a) และ Haguro (\u7fbd\u9ed2) ใน กองเรือ."
     },
     "138": {
-        "name": "Form the new 2nd Carrier Division",
-        "desc": "Have Hiryuu Kai Ni (\u98db\u9f8d\u6539\u4e8c, as the flagship), Souryuu (\u84bc\u9f8d) and 2 destroyers in your fleet."
+        "name": "จัด new 2nd Carrier Division",
+        "desc": "บรรจุ Hiryuu Kai Ni (\u98db\u9f8d\u6539\u4e8c, as the เรือธง), Souryuu (\u84bc\u9f8d) และ 2 destroyers ใน กองเรือ."
     },
     "139": {
-        "name": "Form the 6th Submarine Fleet",
-        "desc": "Have a submarine tender and 4 (or more) submarines in your fleet."
+        "name": "จัด 6th เรือดำน้ำ กองเรือ",
+        "desc": "บรรจุ  เรือดำน้ำ tender และ 4 (หรือ more) submarines ใน กองเรือ."
     },
     "140": {
         "name": "Test the new RADAR!",
-        "desc": "Have Myoukou Kai2 as the flagship of your fleet."
+        "desc": "บรรจุ Myoukou Kai2 as the เรือธง of your กองเรือ."
     },
     "141": {
         "name": "Reorganise the Strengthened 2nd Carrier Division",
-        "desc": "Have Souryuu Kai-2 (\u84bc\u9f8d\u6539\u4e8c) as flagship with Hiryuu Kai-2 (\u98db\u9f8d\u6539\u4e8c) and 2 destroyers in your fleet."
+        "desc": "บรรจุ Souryuu Kai-2 (\u84bc\u9f8d\u6539\u4e8c) as เรือธง โดยมี Hiryuu Kai-2 (\u98db\u9f8d\u6539\u4e8c) และ 2 destroyers ใน กองเรือ."
     },
     "142": {
         "name": "Organise the Elite 3rd Battleship Division",
-        "desc": "Have all four Kongou-class Kai 2 battleships in your main fleet."
+        "desc": "บรรจุ all four Kongou-ชั้นเรือ Kai 2 battleships ใน กองเรือหลัก."
     },
     "143": {
-        "name": "Deploy a New Standard Aircraft Carrier",
-        "desc": "Have Unryuu (\u96f2\u9f8d) as your flagship."
+        "name": "ส่ง  New Standard Aircraft Carrier",
+        "desc": "บรรจุ Unryuu (\u96f2\u9f8d) as your เรือธง."
     },
     "144": {
-        "name": "Organise the Main Battleship Fleet: the 2nd Squadron",
-        "desc": "Have both Nagato-class and both Fusou-class battleships (and no other ships) in your main fleet."
+        "name": "Organise the Main Battleship กองเรือ: the 2nd ชุดเรือ",
+        "desc": "บรรจุ both Nagato-ชั้นเรือ และ both Fusou-ชั้นเรือ battleships (และ no other ships) ใน กองเรือหลัก."
     },
     "145": {
         "name": "Organise the Main Battleship Force",
-        "desc": "Have three battleships of Nagato, Fusou, Ise or Yamato classes and a light cruiser in your fleet."
+        "desc": "บรรจุ three battleships of Nagato, Fusou, Ise หรือ Yamato classes และ  light cruiser ใน กองเรือ."
     },
     "146": {
         "name": "Prepare the Arsenal for Renovations",
-        "desc": "Have Akashi (\u660e\u77f3) as your flagship in your main fleet."
+        "desc": "บรรจุ Akashi (\u660e\u77f3) as your เรือธง ใน กองเรือหลัก."
     },
     "147": {
-        "name": "Organise the Nishimura Fleet",
-        "desc": "Have Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce), Mogami (\u6700\u4e0a), Shigure (\u6642\u96e8) and Michishio (\u6e80\u6f6e) in your main fleet."
+        "name": "Organise the Nishimura กองเรือ",
+        "desc": "บรรจุ Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce), Mogami (\u6700\u4e0a), Shigure (\u6642\u96e8) และ Michishio (\u6e80\u6f6e) ใน กองเรือหลัก."
     },
     "148": {
-        "name": "Organise the Counterattack Squadron",
-        "desc": "Have Kasumi (\u971e) as the flagship, Ashigara (\u8db3\u67c4), 1 CL and 3 more DDs in your main fleet."
+        "name": "Organise the Counterattack ชุดเรือ",
+        "desc": "บรรจุ Kasumi (\u971e) as the เรือธง, Ashigara (\u8db3\u67c4), 1 เรือลาดตระเวนเบา (CL) และ 3 more DDs ใน กองเรือหลัก."
     },
     "149": {
-        "name": "Organise the 11th Destroyer Division",
-        "desc": "Have the 4 Special-type destroyers: Fubuki (\u5439\u96ea), Shirayuki(\u767d\u96ea), Hatsuyuki (\u521d\u96ea) and Murakumo(\u53e2\u96f2) in your main fleet. One of them should be the flagship."
+        "name": "Organise the 11th กองเรือพิฆาตที่",
+        "desc": "บรรจุ the 4 Special-type destroyers: Fubuki (\u5439\u96ea), Shirayuki(\u767d\u96ea), Hatsuyuki (\u521d\u96ea) และ Murakumo(\u53e2\u96f2) ใน กองเรือหลัก. One of them should be the เรือธง."
     },
     "150": {
-        "name": "Organise the 21st Destroyer Division",
-        "desc": "Have only Hatsuharu (\u521d\u6625), Nenohi (\u5b50\u65e5), Wakaba (\u82e5\u8449) and Hatsushimo (\u521d\u971c) in your main fleet."
+        "name": "Organise the 21st กองเรือพิฆาตที่",
+        "desc": "บรรจุ only Hatsuharu (\u521d\u6625), Nenohi (\u5b50\u65e5), Wakaba (\u82e5\u8449) และ Hatsushimo (\u521d\u971c) ใน กองเรือหลัก."
     },
     "151": {
-        "name": "Organise the 22nd Destroyer Division",
-        "desc": "Have only Satsuki (\u7690\u6708), Fumizuki (\u6587\u6708), Nagatsuki (\u9577\u6708) and 1 more DD in your main fleet."
+        "name": "Organise the 22nd กองเรือพิฆาตที่",
+        "desc": "บรรจุ only Satsuki (\u7690\u6708), Fumizuki (\u6587\u6708), Nagatsuki (\u9577\u6708) และ 1 more เรือพิฆาต (DD) ใน กองเรือหลัก."
     },
     "152": {
-        "name": "Organise the New Edition of the Mikawa Fleet",
-        "desc": "Have Choukai Kai2 as the flagship and any five of Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari in your main fleet"
+        "name": "Organise the New Edition of the Mikawa กองเรือ",
+        "desc": "บรรจุ Choukai Kai2 as the เรือธง และ any five of Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari ใน กองเรือหลัก"
     },
     "153": {
-        "name": "Reorganize the 18th Squadron!",
-        "desc": "Have Tenryuu, Tatsuta and 2 or more other ships in your fleet"
+        "name": "Reorganize the 18th ชุดเรือ!",
+        "desc": "บรรจุ Tenryuu, Tatsuta และ 2 หรือ more other ships ใน กองเรือ"
     },
     "154": {
-        "name": "Organize the surface attack fleet!",
-        "desc": "Have Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi, Inazuma in your fleet"
+        "name": "Organize the surface attack กองเรือ!",
+        "desc": "บรรจุ Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi, Inazuma ใน กองเรือ"
     },
     "155": {
-        "name": "Organize the new 6th Destroyer Division!",
-        "desc": "Have Akatsuki Kai2 as Flagship with Hibiki/Bep, Ikazuchi, Inazuma in your fleet"
+        "name": "Organize the new 6th กองเรือพิฆาตที่!",
+        "desc": "บรรจุ Akatsuki Kai2 as เรือธง โดยมี Hibiki/Bep, Ikazuchi, Inazuma ใน กองเรือ"
     },
     "156": {
-        "name": "1st Torpedo Squadron, Prepare for a Rush to the Northern Sea",
-        "desc": "Have Abukuma as flagship with Hibiki/Вер, Hatsushimo, Wakaba, Samidare and Shimakaze in your main fleet"
+        "name": "1st Torpedo ชุดเรือ, Prepare for  Rush ที่ the Northern Sea",
+        "desc": "บรรจุ Abukuma as เรือธง โดยมี Hibiki/Вер, Hatsushimo, Wakaba, Samidare และ Shimakaze ใน กองเรือหลัก"
     },
     "157": {
-        "name": "1st Torpedo Squadron, Prepare for Another Rush to the Northern Sea",
-        "desc": "Have Abukuma Kai Ni as flagship with Hibiki/Вер, Yuugumo, Naganami, Akigumo and Shimakaze in your main fleet"
+        "name": "1st Torpedo ชุดเรือ, Prepare for Another Rush ที่ the Northern Sea",
+        "desc": "บรรจุ Abukuma Kai Ni as เรือธง โดยมี Hibiki/Вер, Yuugumo, Naganami, Akigumo และ Shimakaze ใน กองเรือหลัก"
     },
     
     
     
     "202": {
-        "name": "First Sortie!",
-        "desc": "Deploy your main fleet on a combat mission."
+        "name": "First ออกรบ!",
+        "desc": "ส่ง your กองเรือหลัก on  combat mission."
     },
     "203": {
         "name": "Protect the Seas of Chinju-Fu!",
-        "desc": "Deploy to World 1-1 and clear the stage."
+        "desc": "ส่ง ที่ เวิร์ล 1-1 และ clear the stage."
     },
     "204": {
-        "name": "Sortie to the Coast of Nansei Islands!",
-        "desc": "Deploy to World 1-2 and clear the stage."
+        "name": "ออกรบ ที่ the Coast of Nansei Islands!",
+        "desc": "ส่ง ที่ เวิร์ล 1-2 และ clear the stage."
     },
     "205": {
-        "name": "Intercept Approaching Enemy Vanguard Fleet!",
-        "desc": "Deploy to World 1-2 after defeating its boss and clear the stage."
+        "name": "Intercept Approaching Enemy Vanguard กองเรือ!",
+        "desc": "ส่ง ที่ เวิร์ล 1-2 after defeating its บอส และ clear the stage."
     },
     "206": {
-        "name": "Sortie the Torpedo Squadron!",
-        "desc": "Deploy a fleet with a CL as flagship and 3 DD as escorts."
+        "name": "ออกรบ the Torpedo ชุดเรือ!",
+        "desc": "ส่ง  กองเรือ โดยมี  เรือลาดตระเวนเบา (CL) as เรือธง และ 3 เรือพิฆาต (DD) as escorts."
     },
     "207": {
-        "name": "Sortie a Heavy Cruiser!",
-        "desc": "Deploy a fleet with a CA as its flagship."
+        "name": "ออกรบ  Heavy Cruiser!",
+        "desc": "ส่ง  กองเรือ โดยมี  เรือลาดตระเวนหนัก (CA) เป็น เรือธง."
     },
     "208": {
-        "name": "Sortie a Battleship!",
-        "desc": "Deploy a fleet with a BB as its flagship. BBV don't count."
+        "name": "ออกรบ  Battleship!",
+        "desc": "ส่ง  กองเรือ โดยมี  เรือประจัญบาน (BB) เป็น เรือธง. เรือประจัญบานบรรทุกเครื่องบิน (BBV) don't count."
     },
     "209": {
-        "name": "Sortie a Carrier Task Force!",
-        "desc": "Deply a fleet with CV(L) as flagship and 5 DD\/CL\/AV for the escorts."
+        "name": "ออกรบ  Carrier Task Force!",
+        "desc": "Deply  กองเรือ โดยมี เรือบรรทุกเครื่องบินมาตรฐาน (AV)(L) as เรือธง และ 5 เรือพิฆาต (DD)\/เรือลาดตระเวนเบา (CL)\/เรือบรรทุกเครื่องบินทะเล (AV) for the escorts."
     },
     "215": {
-        "name": "Second Fleet Sortie!",
-        "desc": "Deploy your 2nd Fleet on a combat mission."
+        "name": "กองเรือที่สอง ออกรบ!",
+        "desc": "ส่ง your 2nd กองเรือ on  combat mission."
     },
     "217": {
-        "name": "Sink Enemy Carrier!",
-        "desc": "Sink an enemy aircraft carrier."
+        "name": "จม Enemy Carrier!",
+        "desc": "จม   enemy aircraft carrier."
     },
     "219": {
-        "name": "Sortie the Mikawa Fleet!",
-        "desc": "Deploy a fleet with Choukai, Aoba, Kako, Furutaka, Tenryuu and another fast ship."
+        "name": "ออกรบ the Mikawa กองเรือ!",
+        "desc": "ส่ง  กองเรือ โดยมี Choukai, Aoba, Kako, Furutaka, Tenryuu และ another fast ship."
     },
     "222": {
-        "name": "Sortie the Destroyer Division 6!",
-        "desc": "Deploy a fleet with ONLY Akatsuki, Hibiki, Inazuma, and Ikazuchi."
+        "name": "ออกรบ the กองเรือพิฆาตที่ 6!",
+        "desc": "ส่ง  กองเรือ โดยมี ONLY Akatsuki, Hibiki, Inazuma, และ Ikazuchi."
     },
     "223": {
-        "name": "Sortie the Cruiser Division 4!",
-        "desc": "Deploy a fleet with Atago, Takao, Choukai, Maya and any 2 ships. Score a victory against World 2-2 Boss."
+        "name": "ออกรบ the Cruiser Division 4!",
+        "desc": "ส่ง  กองเรือ โดยมี Atago, Takao, Choukai, Maya และ any 2 ships. Score  victory against เวิร์ล 2-2 บอส."
     },
     "224": {
-        "name": "Sortie the Nishimura Fleet!",
-        "desc": "Deploy a fleet with Fusou, Yamashiro, Mogami, Shigure and any 2 ships. Score a victory against World 2-3 Boss."
+        "name": "ออกรบ the Nishimura กองเรือ!",
+        "desc": "ส่ง  กองเรือ โดยมี Fusou, Yamashiro, Mogami, Shigure และ any 2 ships. Score  victory against เวิร์ล 2-3 บอส."
     },
     "225": {
-        "name": "Sortie the Carrier Division 5!",
-        "desc": "Deploy a fleet with Shoukaku, Zuikaku and any 4 ships. Score a victory against World 3-1 Boss."
+        "name": "ออกรบ the Carrier Division 5!",
+        "desc": "ส่ง  กองเรือ โดยมี Shoukaku, Zuikaku และ any 4 ships. Score  victory against เวิร์ล 3-1 บอส."
     },
     "227": {
-        "name": "Sortie the New Mikawa Fleet!",
-        "desc": "Deploy a fleet with Choukai, Aoba, Kinugasa, Kako, Furutaka and Tenryuu. Score a victory against World 2-3 Boss."
+        "name": "ออกรบ the New Mikawa กองเรือ!",
+        "desc": "ส่ง  กองเรือ โดยมี Choukai, Aoba, Kinugasa, Kako, Furutaka และ Tenryuu. Score  victory against เวิร์ล 2-3 บอส."
     },
     "231": {
-        "name": "Sortie a Submarine Fleet!",
-        "desc": "Deploy a fleet with 2 SS and 4 additional ships. Score a victory against World 2-3 Boss."
+        "name": "ออกรบ  เรือดำน้ำ กองเรือ!",
+        "desc": "ส่ง  กองเรือ โดยมี 2 เรือดำน้ำ (SS) และ 4 additional ships. Score  victory against เวิร์ล 2-3 บอส."
     },
     "232": {
-        "name": "Sortie a Naval Aviation Strike Fleet!",
-        "desc": "Deploy a fleet with 2 BBV, 2 CAV and 2 additional ships. Score a victory against World 4-2 Boss."
+        "name": "ออกรบ  Naval Aviation Strike กองเรือ!",
+        "desc": "ส่ง  กองเรือ โดยมี 2 เรือประจัญบานบรรทุกเครื่องบิน (BBV), 2 เรือลาดตระเวนบรรทุกเครื่องบิน (CAV) และ 2 additional ships. Score  victory against เวิร์ล 4-2 บอส."
     },
     "233": {
-        "name": "Sortie the Cruiser Division 6!",
-        "desc": "Deploy a fleet with Furutaka, Kako, Kinugasa, Aoba and 2 additional ships. Score a S rank victory against World 2-3 Boss."
+        "name": "ออกรบ the Cruiser Division 6!",
+        "desc": "ส่ง  กองเรือ โดยมี Furutaka, Kako, Kinugasa, Aoba และ 2 additional ships. Score  S rank victory against เวิร์ล 2-3 บอส."
     },
     "239": {
-        "name": "Sortie the Destroyer Division 8!",
-        "desc": "Deploy a fleet with Asashio, Michishio, Ooshio, Arashio and 2 additional ships. Score a victory against World 2-3 Boss."
+        "name": "ออกรบ the กองเรือพิฆาตที่ 8!",
+        "desc": "ส่ง  กองเรือ โดยมี Asashio, Michishio, Ooshio, Arashio และ 2 additional ships. Score  victory against เวิร์ล 2-3 บอส."
     },
     "240": {
-        "name": "Sortie the Destroyer Division 18!",
-        "desc": "Deploy a fleet with Kasumi, Arare, Kagerou, Shiranui and 2 additional ships. Score a victory against World 3-1 Boss."
+        "name": "ออกรบ the กองเรือพิฆาตที่ 18!",
+        "desc": "ส่ง  กองเรือ โดยมี Kasumi, Arare, Kagerou, Shiranui และ 2 additional ships. Score  victory against เวิร์ล 3-1 บอส."
     },
     "244": {
-        "name": "Deploy the Destroyer Division 30 (Gen-1)",
-        "desc": "Deploy a fleet that consists of Mutsuki (\u7766\u6708), Kisaragi (\u5982\u6708), Yayoi (\u5f25\u751f), Mochizuki (\u671b\u6708) and up to 2 additional DDs to world 3-2 and encounter the boss. C rank or above is required."
+        "name": "ส่ง the กองเรือพิฆาตที่ 30 (Gen-1)",
+        "desc": "ส่ง  กองเรือ that consists of Mutsuki (\u7766\u6708), Kisaragi (\u5982\u6708), Yayoi (\u5f25\u751f), Mochizuki (\u671b\u6708) และ up ที่ 2 additional DDs ที่ เวิร์ล 3-2 และ encounter the บอส. C rank หรือ above is required."
     },
     "245": {
         "name": "In Preparation of Love! (Final)",
-        "desc": "Deploy a fleet with a high level (Lv.90~99) flagship to 2-3 obtain an S rank victory against the boss."
+        "desc": "ส่ง  กองเรือ โดยมี  high level (Lv.90~99) เรือธง ที่ 2-3 obtain   S rank victory against the บอส."
     },
     "246": {
         "name": "Your First Mission Together!",
-        "desc": "Deploy a fleet to 4-3 with a bonded ship of Lv.100 or more as flagship and score an S rank victory against the boss."
+        "desc": "ส่ง  กองเรือ ที่ 4-3 โดยมี  bonded ship of Lv.100 หรือ more as เรือธง และ score   S rank victory against the บอส."
     },
     "247": {
-        "name": "Sortie an aviation battleship fleet!",
-        "desc": "Have 2 BBV ships in your main fleet and score a victory against World 4-4 Boss."
+        "name": "ออกรบ   aviation battleship กองเรือ!",
+        "desc": "บรรจุ 2 เรือประจัญบานบรรทุกเครื่องบิน (BBV) ships ใน กองเรือหลัก และ score  victory against เวิร์ล 4-4 บอส."
     },
     "248": {
-        "name": "30th Destroyer Fleet's Anti-Submarine Patrol",
-        "desc": "Deploy Mutsuki, Yayoi, Uzuki and Mochizuki to World 1-5 and reach the boss, scoring at least a C rank."
+        "name": "30th Destroyer กองเรือ's Anti-เรือดำน้ำ Patrol",
+        "desc": "ส่ง Mutsuki, Yayoi, Uzuki และ Mochizuki ที่ เวิร์ล 1-5 และ reach the บอส, scoring at least  C rank."
     },
     "250": {
-        "name": "Deploy the 2nd Carrier Division",
-        "desc": "Deploy Hiryuu Kai Ni (\u98db\u9f8d\u6539\u4e8c) as the flagship, Souryuu (\u84bc\u9f8d) and two destroyers to World 5-2. You may add 2 other ships. Score an S rank victory against the boss."
+        "name": "ส่ง the 2nd Carrier Division",
+        "desc": "ส่ง Hiryuu Kai Ni (\u98db\u9f8d\u6539\u4e8c) as the เรือธง, Souryuu (\u84bc\u9f8d) และ two destroyers ที่ เวิร์ล 5-2. You may add 2 other ships. Score   S rank victory against the บอส."
     },
     "251": {
-        "name": "Deploy the Elite 2nd Carrier Division",
-        "desc": "Deploy Souryuu Kai Ni (\u84bc\u9f8d\u6539\u4e8c) as the flagship, Hiryuu Kai Ni (\u98db\u9f8d\u6539\u4e8c) and two destroyers to World 4-3. You may add 2 other ships. Score an S rank victory against the boss."
+        "name": "ส่ง the Elite 2nd Carrier Division",
+        "desc": "ส่ง Souryuu Kai Ni (\u84bc\u9f8d\u6539\u4e8c) as the เรือธง, Hiryuu Kai Ni (\u98db\u9f8d\u6539\u4e8c) และ two destroyers ที่ เวิร์ล 4-3. You may add 2 other ships. Score   S rank victory against the บอส."
     },
     "252": {
-        "name": "Deploy a Haruna-led Fleet",
-        "desc": "Deploy a fleet with Haruna Kai Ni (\u699b\u540d\u6539\u4e8c) as the flagship and up to 5 additional ships to World 5-1 and score an S rank victory against the boss."
+        "name": "ส่ง  Haruna-led กองเรือ",
+        "desc": "ส่ง  กองเรือ โดยมี Haruna Kai Ni (\u699b\u540d\u6539\u4e8c) as the เรือธง และ up ที่ 5 additional ships ที่ เวิร์ล 5-1 และ score   S rank victory against the บอส."
     },
     "253": {
-        "name": "Deploy the 601 Air Group",
-        "desc": "Deploy a fleet with Unryuu Kai (\u96f2\u9f8d\u6539) as the flagship to World 5-2 and score an S rank victory against the boss."
+        "name": "ส่ง the 601 Air Group",
+        "desc": "ส่ง  กองเรือ โดยมี Unryuu Kai (\u96f2\u9f8d\u6539) as the เรือธง ที่ เวิร์ล 5-2 และ score   S rank victory against the บอส."
     },
     "254": {
-        "name": "Deploy a Light Carrier Squadron",
-        "desc": "Sortie a fleet of 1-2 light aircraft carriers, 1 light cruiser and 3-4 destroyers to World 2-1 and score an S rank victory against the boss."
+        "name": "ส่ง  Light Carrier ชุดเรือ",
+        "desc": "ออกรบ  กองเรือ of 1-2 light aircraft carriers, 1 light cruiser และ 3-4 destroyers ที่ เวิร์ล 2-1 และ score   S rank victory against the บอส."
     },
     "255": {
-        "name": "Deploy a Torpedo Squadron to Bashi Islands",
-        "desc": "Sortie a fleet of 1-2 light cruisers (with one of them as the flagship) and 4-5 destroyers to World 2-2. Score a victory at the boss and sink the enemy flagship."
+        "name": "ส่ง  Torpedo ชุดเรือ ที่ Bashi Islands",
+        "desc": "ออกรบ  กองเรือ of 1-2 light cruisers (โดยมี one of them as the เรือธง) และ 4-5 destroyers ที่ เวิร์ล 2-2. Score  victory at the บอส และ จม the enemy เรือธง."
     },
     "258": {
-        "name": "Sortie the 2nd Squadron",
-        "desc": "Deploy Nagato (\u9577\u9580), Mutsu (\u9678\u5965), Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce) and up to 2 additional ships to World 4-2. Score two S rank victories at the boss node."
+        "name": "ออกรบ the 2nd ชุดเรือ",
+        "desc": "ส่ง Nagato (\u9577\u9580), Mutsu (\u9678\u5965), Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce) และ up ที่ 2 additional ships ที่ เวิร์ล 4-2. Score two S rank victories at the บอส node."
     },
     "260": {
-        "name": "Deploy the Battleship Squadron in the Northern Waters",
-        "desc": "Deploy two battleships, a light aircraft carrier and up to three additional ships to World 3-5 and score an S rank victory at the boss node."
+        "name": "ส่ง the Battleship ชุดเรือ in the Northern Waters",
+        "desc": "ส่ง two battleships,  light aircraft carrier และ up ที่ three additional ships ที่ เวิร์ล 3-5 และ score   S rank victory at the บอส node."
     },
     "262": {
-        "name": "Deploy the Nishimura Fleet in the Southern Waters",
-        "desc": "Deploy Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce), Mogami (\u6700\u4e0a), Shigure (\u6642\u96e8) and Michishio (\u6e80\u6f6e) (you may also add another ship) to World 5-1 and score an S rank victory at the boss node."
+        "name": "ส่ง the Nishimura กองเรือ in the Southern Waters",
+        "desc": "ส่ง Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce), Mogami (\u6700\u4e0a), Shigure (\u6642\u96e8) และ Michishio (\u6e80\u6f6e) (you may also add another ship) ที่ เวิร์ล 5-1 และ score   S rank victory at the บอส node."
     },
     "263": {
-        "name": "Deploy the Sixth Squadron to the Southwestern Waters",
-        "desc": "Deploy Furutaka (\u53e4\u9df9), Kako (\u52a0\u53e4), Aoba (\u9752\u8449), Kinugasa (\u8863\u7b20) and up to two additional ships to World 2-5 and score an S rank victory at the boss node."
+        "name": "ส่ง the Sixth ชุดเรือ ที่ the Southwestern Waters",
+        "desc": "ส่ง Furutaka (\u53e4\u9df9), Kako (\u52a0\u53e4), Aoba (\u9752\u8449), Kinugasa (\u8863\u7b20) และ up ที่ two additional ships ที่ เวิร์ล 2-5 และ score   S rank victory at the บอส node."
     },
     "267": {
-        "name": "Deploy the 11th Destroyer Division",
-        "desc": "Deploy Fubuki (\u5439\u96ea), Shirayuki(\u767d\u96ea), Hatsuyuki (\u521d\u96ea), Murakumo(\u53e2\u96f2) and up to 2 additional ships to World 2-3 and score a victory at the boss node."
+        "name": "ส่ง the 11th กองเรือพิฆาตที่",
+        "desc": "ส่ง Fubuki (\u5439\u96ea), Shirayuki(\u767d\u96ea), Hatsuyuki (\u521d\u96ea), Murakumo(\u53e2\u96f2) และ up ที่ 2 additional ships ที่ เวิร์ล 2-3 และ score  victory at the บอส node."
     },
     "268": {
-        "name": "11th Destroyer Division's Anti-Submarine Patrol",
-        "desc": "Deploy Fubuki (\u5439\u96ea), Shirayuki(\u767d\u96ea), Hatsuyuki (\u521d\u96ea) and Murakumo(\u53e2\u96f2) to World 1-5 and get a score of at least C at the boss node."
+        "name": "11th กองเรือพิฆาตที่'s Anti-เรือดำน้ำ Patrol",
+        "desc": "ส่ง Fubuki (\u5439\u96ea), Shirayuki(\u767d\u96ea), Hatsuyuki (\u521d\u96ea) และ Murakumo(\u53e2\u96f2) ที่ เวิร์ล 1-5 และ get  score of at least C at the บอส node."
     },
     "269": {
-        "name": "Deploy the 21st Destroyer Division",
-        "desc": "Deploy Hatsuharu (\u521d\u6625), Nenohi (\u5b50\u65e5), Wakaba (\u82e5\u8449) and Hatsushimo (\u521d\u971c) and up to 2 additional ships to World 3-1 and score an S rank victory at the boss node."
+        "name": "ส่ง the 21st กองเรือพิฆาตที่",
+        "desc": "ส่ง Hatsuharu (\u521d\u6625), Nenohi (\u5b50\u65e5), Wakaba (\u82e5\u8449) และ Hatsushimo (\u521d\u971c) และ up ที่ 2 additional ships ที่ เวิร์ล 3-1 และ score   S rank victory at the บอส node."
     },
     "270": {
-        "name": "Deploy the 22nd Destroyer Division",
-        "desc": "Deploy Satsuki (\u7690\u6708), Fumizuki (\u6587\u6708), Nagatsuki (\u9577\u6708), 1 more DD and up to two additional ships to World 1-4 and score an S rank victory at the boss node."
+        "name": "ส่ง the 22nd กองเรือพิฆาตที่",
+        "desc": "ส่ง Satsuki (\u7690\u6708), Fumizuki (\u6587\u6708), Nagatsuki (\u9577\u6708), 1 more เรือพิฆาต (DD) และ up ที่ two additional ships ที่ เวิร์ล 1-4 และ score   S rank victory at the บอส node."
     },
     "271": {
-        "name": "Deploy Nachi's Squadron",
-        "desc": "Sortie a fleet with Nachi (\u90a3\u667a) as flagship, Hatsushimo (\u521d\u971c), Kasumi (\u971e), Ushio (\u6f6e), Akebono (\u66d9) and one additional ship to world 2-2 and score an S rank victory at the boss node."
+        "name": "ส่ง Nachi's ชุดเรือ",
+        "desc": "ออกรบ  กองเรือ โดยมี Nachi (\u90a3\u667a) as เรือธง, Hatsushimo (\u521d\u971c), Kasumi (\u971e), Ushio (\u6f6e), Akebono (\u66d9) และ one additional ship ที่ เวิร์ล 2-2 และ score   S rank victory at the บอส node."
     },
     "272": {
-        "name": "Deploy the Remodelled Anti-Aircraft Heavy Cruiser",
-        "desc": "Sortie a fleet with Maya (\u6469\u8036) Kai or Kai2, 1 CL, 2 DD and up to two additional ships to World 2-3 and score an S rank victory at the boss node."
+        "name": "ส่ง the Remodelled Anti-Aircraft Heavy Cruiser",
+        "desc": "ออกรบ  กองเรือ โดยมี Maya (\u6469\u8036) Kai หรือ Kai2, 1 เรือลาดตระเวนเบา (CL), 2 เรือพิฆาต (DD) และ up ที่ two additional ships ที่ เวิร์ล 2-3 และ score   S rank victory at the บอส node."
     },
     "273": {
-        "name": "Deploy the Mikawa Fleet to Solomon Islands",
-        "desc": "Sortie the main fleet with Choukai Kai2 as the flagship and any five of Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari to 5-1 and S-Rank the boss"
+        "name": "ส่ง the Mikawa กองเรือ ที่ Solomon Islands",
+        "desc": "ออกรบ the กองเรือหลัก โดยมี Choukai Kai2 as the เรือธง และ any five of Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari ที่ 5-1 และ S-Rank the บอส"
     },
     "274": {
-        "name": "6th Destroyer Division's Anti-Submarine Patrol",
-        "desc": "Deploy Akatsuki, Hibiki (\u97ff or \u0412\u0435\u0440\u043d\u044b\u0439), Inazuma and Ikazuchi to 1-5. C-Rank+ the boss"
+        "name": "6th กองเรือพิฆาตที่'s Anti-เรือดำน้ำ Patrol",
+        "desc": "ส่ง Akatsuki, Hibiki (\u97ff หรือ \u0412\u0435\u0440\u043d\u044b\u0439), Inazuma และ Ikazuchi ที่ 1-5. C-Rank+ the บอส"
     },
     "275": {
-        "name": "Deploy the 18th Squadron",
-        "desc": "Tenryuu, Tatsuta, and at least 2 other ships to [W2-3] and S-rank the boss node"
+        "name": "ส่ง the 18th ชุดเรือ",
+        "desc": "Tenryuu, Tatsuta, และ at least 2 other ships ที่ [W2-3] และ S-rank the บอส node"
     },
     "276": {
-        "name": "Sortie the surface attack fleet!",
-        "desc": "Sortie Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi, Inazuma to 5-1 and clear the map with an S-rank"
+        "name": "ออกรบ the surface attack กองเรือ!",
+        "desc": "ออกรบ Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi, Inazuma ที่ 5-1 และ clear the map โดยมี   S-rank"
     },
     "277": {
-        "name": "DesDiv6 Anti-Submarine Mission!",
-        "desc": "Sortie Akatsuki Kai2 , Hibiki/Verniy, Ikazuchi, Inazuma to 1-5 and clear the map with at least A-rank"
+        "name": "DesDiv6 Anti-เรือดำน้ำ Mission!",
+        "desc": "ออกรบ Akatsuki Kai2 , Hibiki/Verniy, Ikazuchi, Inazuma ที่ 1-5 และ clear the map โดยมี at least -rank"
     },
     "278": {
-        "name": "Rush the 1st Torpedo Squadron to Operation KE",
-        "desc": "Sortie Abukuma as flagship with Hibiki/Вер, Hatsushimo, Wakaba, Samidare and Shimakaze to 3-2 and B-Rank+ the boss"
+        "name": "Rush the 1st Torpedo ชุดเรือ ที่ Operation KE",
+        "desc": "ออกรบ Abukuma as เรือธง โดยมี Hibiki/Вер, Hatsushimo, Wakaba, Samidare และ Shimakaze ที่ 3-2 และ B-Rank+ the บอส"
     },
     "279": {
-        "name": "Rush the 1st Torpedo Squadron to Operation KE Again",
-        "desc": "Sortie Abukuma Kai-2 as flagship with Hibiki/Вер, Yuugumo, Naganami, Akigumo and Shimakaze to 3-2 and B-Rank+ the boss"
+        "name": "Rush the 1st Torpedo ชุดเรือ ที่ Operation KE Again",
+        "desc": "ออกรบ Abukuma Kai-2 as เรือธง โดยมี Hibiki/Вер, Yuugumo, Naganami, Akigumo และ Shimakaze ที่ 3-2 และ B-Rank+ the บอส"
     },
     
     
     
     "201": {
         "code": "Bd1",
-        "name": "Daily Sortie 1",
-        "desc": "Defeat an abyssal fleet",
+        "name": "Daily ออกรบ 1",
+        "desc": "เอาชนะ   กองเรือน้ำลึก",
         "unlock": [ 216, 211, 212 ],
         "tracking": [ [0,1] ]
     },
     "216": {
         "code": "Bd2",
-        "name": "Daily Sortie 2",
-        "desc": "Defeat the flagship of an abyssal fleet",
+        "name": "Daily ออกรบ 2",
+        "desc": "เอาชนะ the เรือธง of   กองเรือน้ำลึก",
         "unlock": [ 210, 218, 214, 213 ],
         "tracking": [ [0,1] ]
     },
     "210": {
         "code": "Bd3",
-        "name": "Daily Sortie 3",
-        "desc": "Defeat 10 abyssal fleets (B rank+)",
+        "name": "Daily ออกรบ 3",
+        "desc": "เอาชนะกองเรือน้ำลึก 10 ครั้ง (B rank+)",
         "tracking": [ [0,10] ]
     },
     "211": {
         "code": "Bd4",
-        "name": "Daily Sortie 4",
-        "desc": "Sink 3 abyssal CV(L)",
+        "name": "Daily ออกรบ 4",
+        "desc": "จมเรือบรรทุกเครื่องบินน้ำลึก 3 ลำ (CV)(AV)(L)",
         "tracking": [ [0,3] ]
     },
     "218": {
         "code": "Bd5",
-        "name": "Daily Sortie 5",
-        "desc": "Sink 3 abyssal transport ships",
+        "name": "Daily ออกรบ 5",
+        "desc": "จมเรือขนส่งน้ำลึก 3 ลำ",
         "unlock": [ 226, 220 ],
         "tracking": [ [0,3] ]
     },
     "212": {
         "code": "Bd6",
-        "name": "Daily Sortie 6",
-        "desc": "Sink 5 abyssal transport ships",
+        "name": "Daily ออกรบ 6",
+        "desc": "จมเรือขนส่งน้ำลึก 5 ลำ",
         "tracking": [ [0,5] ]
     },
     "226": {
         "code": "Bd7",
-        "name": "Daily Sortie 7",
-        "desc": "Defeat 5 bosses in horned nodes in World 2",
+        "name": "Daily ออกรบ 7",
+        "desc": "เอาชนะบอส 5 ลำในเวิล์ด 2",
         "unlock": [ 230 ],
         "tracking": [ [0,5] ]
     },
     "230": {
         "code": "Bd8",
-        "name": "Daily Sortie 8",
-        "desc": "Sink 6 abyssal submarines",
+        "name": "Daily ออกรบ 8",
+        "desc": "จมเรือดำน้ำน้ำลึก 6 ลำ",
         "tracking": [ [0,6] ]
     },
     
@@ -488,68 +488,68 @@
     
     "214": {
         "code": "Bw1",
-        "name": "Weekly Sortie 1",
-        "desc": "Sortie 36x, Encounter 24 bosses, Win vs 12 bosses, 6 S-ranks",
+        "name": "Weekly ออกรบ 1",
+        "desc": "ออกรบ 36 ครั้ง, เผชิญหน้าบอส 24 ครั้ง, ชนะบอส 12 ครั้ง, ได้ S-rank 6 ครั้ง",
         "unlock": [ 221 ],
         "tracking": [ [0,36], [0,24], [0,12], [0,6] ]
     },
     "220": {
         "code": "Bw2",
-        "name": "Weekly Sortie 2",
-        "desc": "Sink 20 abyssal CV(L)",
+        "name": "Weekly ออกรบ 2",
+        "desc": "จม 20 น้ำลึก เรือบรรทุกเครื่องบินมาตรฐาน (AV)(L)",
         "unlock": [ 228 ],
         "tracking": [ [0,20] ]
     },
     "213": {
         "code": "Bw3",
-        "name": "Weekly Sortie 3",
-        "desc": "Sink 20 abyssal transport ships",
+        "name": "Weekly ออกรบ 3",
+        "desc": "จม 20 น้ำลึก เรือขนส่ง",
         "tracking": [ [0,20] ]
     },
     "221": {
         "code": "Bw4",
-        "name": "Weekly Sortie 4",
-        "desc": "Sink 50 abyssal transport ships",
+        "name": "Weekly ออกรบ 4",
+        "desc": "จม 50 น้ำลึก เรือขนส่ง",
         "unlock": [ 261, 257, 264 ],
         "tracking": [ [0,50] ]
     },
     "228": {
         "code": "Bw5",
-        "name": "Weekly Sortie 5",
-        "desc": "Sink 15 submarines",
+        "name": "Weekly ออกรบ 5",
+        "desc": "จม 15 submarines",
         "unlock": [ 229, 241, 613 ],
         "tracking": [ [0,15] ]
     },
     "229": {
         "code": "Bw6",
-        "name": "Weekly Sortie 6",
-        "desc": "Defeat 12 bosses in horned nodes in World 4",
+        "name": "Weekly ออกรบ 6",
+        "desc": "เอาชนะ 12 บอส in horned nodes in เวิร์ล 4",
         "unlock": [ 242 ],
         "tracking": [ [0,12] ]
     },
     "241": {
         "code": "Bw7",
-        "name": "Weekly Sortie 7",
-        "desc": "Defeat 5 bosses in Worlds [W3-3], [W3-4] or [W3-5]",
+        "name": "Weekly ออกรบ 7",
+        "desc": "เอาชนะ 5 บอส in เวิร์ล [W3-3], [W3-4] หรือ [W3-5]",
         "tracking": [ [0,5] ]
     },
     "242": {
         "code": "Bw8",
-        "name": "Weekly Sortie 8",
-        "desc": "Defeat a boss in World [W4-4]",
+        "name": "Weekly ออกรบ 8",
+        "desc": "เอาชนะ  บอส in เวิร์ล [W4-4]",
         "unlock": [ 243 ],
         "tracking": [ [0,1] ]
     },
     "243": {
         "code": "Bw9",
-        "name": "Weekly Sortie 9",
-        "desc": "Sortie to [W5-2] and S-rank the boss node 2 times",
+        "name": "Weekly ออกรบ 9",
+        "desc": "ออกรบ ที่ [W5-2] และ S-rank the บอส node 2 times",
         "tracking": [ [0,2] ]
     },
     "261": {
         "code": "Bw10",
-        "name": "Weekly Sortie 10",
-        "desc": "Sortie to [W1-5] and A-rank+ the boss node 3 times",
+        "name": "Weekly ออกรบ 10",
+        "desc": "ออกรบ ที่ [W1-5] และ -rank+ the บอส node 3 times",
         "tracking": [ [0,3] ]
     },
     
@@ -559,42 +559,42 @@
     
     "249": {
         "code": "Bm1",
-        "name": "Deploy the Fifth squadron",
-        "desc": "Deploy Myoukou, Nachi, Haguro, +3 ships to [W2-5]. S-rank the boss node",
+        "name": "ส่ง the Fifth ชุดเรือ",
+        "desc": "ส่ง Myoukou, Nachi, Haguro, +3 ships ที่ [W2-5]. S-rank the บอส node",
         "unlock": [ 265 ]
     },
     "256": {
         "code": "Bm2",
-        "name": "Deploy a Submarine Fleet to World 6-1",
-        "desc": "Deploy to [W6-1] and obtain an S-rank the boss node 3 times",
+        "name": "ส่ง  เรือดำน้ำ กองเรือ ที่ เวิร์ล 6-1",
+        "desc": "ส่ง ที่ [W6-1] และ obtain   S-rank the บอส node 3 times",
         "tracking": [ [0,3] ]
     },
     "257": {
         "code": "Bm3",
-        "name": "Deploy a Torpedo Squadron",
-        "desc": "1~3 CL (CL flagship) and 3~5 destroyers to [W1-4]. S-rank the boss node"
+        "name": "ส่ง  Torpedo ชุดเรือ",
+        "desc": "1~3 เรือลาดตระเวนเบา (CL) (เรือลาดตระเวนเบา (CL) เรือธง) และ 3~5 destroyers ที่ [W1-4]. S-rank the บอส node"
     },
     "259": {
         "code": "Bm4",
-        "name": "Deploy a Battleship Squadron",
-        "desc": "Deploy 3 BB(V) + 1 CL + 2 ships to [W5-1] and S-rank the boss node"
+        "name": "ส่ง  Battleship ชุดเรือ",
+        "desc": "ส่ง 3 เรือประจัญบาน (BB)(V) + 1 เรือลาดตระเวนเบา (CL) + 2 ships ที่ [W5-1] และ S-rank the บอส node"
     },
     "265": {
         "code": "Bm5",
         "name": "Monthly Escort Duty",
-        "desc": "Deploy a fleet to [W1-5] and A-rank+ the boss node 10 times",
+        "desc": "ส่ง  กองเรือ ที่ [W1-5] และ -rank+ the บอส node 10 times",
         "tracking": [ [0,10] ]
     },
     "264": {
         "code": "Bm6",
-        "name": "Sortie the Aircraft Carrier Task Force to the West",
-        "desc": "2 CV + 2 DD + 2 ships to [W4-2]. S-rank the boss node",
+        "name": "ออกรบ the Aircraft Carrier Task Force ที่ the West",
+        "desc": "2 เรือบรรทุกเครื่องบินมาตรฐาน (CV) + 2 เรือพิฆาต (DD) + 2 ships ที่ [W4-2]. S-rank the บอส node",
         "unlock": [ 266 ]
     },
     "266": {
         "code": "Bm7",
-        "name": "Deploy the Counterattack Squadron",
-        "desc": "4 DD (DD flagship) + 1 CA (Not CAV) + 1 CL to [W2-5] and S-rank the boss node"
+        "name": "ส่ง the Counterattack ชุดเรือ",
+        "desc": "4 เรือพิฆาต (DD) (เรือพิฆาต (DD) เรือธง) + 1 เรือลาดตระเวนหนัก (CA) (Not เรือลาดตระเวนบรรทุกเครื่องบิน (CAV)) + 1 เรือลาดตระเวนเบา (CL) ที่ [W2-5] และ S-rank the บอส node"
     },
     
     
@@ -604,7 +604,7 @@
     "301": {
         "code": "C1",
         "name": "First Exercise!",
-        "desc": "Challenge another fleet in practice mode"
+        "desc": "Challenge another กองเรือ in practice mode"
     },
     "303": {
         "code": "C2",
@@ -627,17 +627,17 @@
     },
     "307": {
         "code": "C5",
-        "name": "Improve the Efficiency of the Fleet",
+        "name": "Improve the Efficiency of the กองเรือ",
         "desc": "Get 3 victories in practice mode within the same day"
     },
     "308": {
         "code": "C6",
-        "name": "Improve the Efficiency of the Fleet One More Time",
+        "name": "Improve the Efficiency of the กองเรือ One More Time",
         "desc": "Get 4 victories in practice mode within the same day"
     },
     "309": {
         "code": "C7",
-        "name": "Strive to Increase the Level of Training in Preparation for Another Rush to the Northern Sea",
+        "name": "Strive ที่ Increase the Level of Training in Preparation for Another Rush ที่ the Northern Sea",
         "desc": "Get 4 victories in Exercises within the same day"
     },
     
@@ -647,7 +647,7 @@
     "401": {
         "code": "D1",
         "name": "First Expedition",
-        "desc": "Perform an expedition"
+        "desc": "Perform   expedition"
     },
     "402": {
         "code": "D2",
@@ -670,55 +670,55 @@
     },
     "405": {
         "code": "D5",
-        "name": "The First Submarine Operation",
+        "name": "The First เรือดำน้ำ Operation",
         "desc": "Complete Expedition 30"
     },
     "406": {
         "code": "D6",
-        "name": "The Second Submarine Operation",
+        "name": "The Second เรือดำน้ำ Operation",
         "desc": "Complete Expedition 30 one more time"
     },
     "408": {
         "code": "D7",
-        "name": "Continuation of Submarine Operations",
+        "name": "Continuation of เรือดำน้ำ Operations",
         "desc": "Complete Expedition 30 two more times"
     },
     "409": {
         "code": "D8",
-        "name": "Strategy Meeting with Overseas Submarine Dispatch!",
+        "name": "Strategy Meeting โดยมี Overseas เรือดำน้ำ Dispatch!",
         "desc": "Complete Expedition 31"
     },
     "410": {
         "code": "D9",
         "name": "Weekly Expedition 2",
-        "desc": "(Weekly) Complete expedition 37 or 38",
+        "desc": "(Weekly) Complete expedition 37 หรือ 38",
         "unlock": [ 411 ],
         "tracking": [ [0,1] ]
     },
     "412": {
         "code": "D10",
-        "name": "Strengthen the Operation of the BBV",
+        "name": "Strengthen the Operation of the เรือประจัญบานบรรทุกเครื่องบิน (BBV)",
         "desc": "Complete expedition 23"
     },
     "411": {
         "code": "D11",
         "name": "Weekly Expedition 3",
-        "desc": "(Weekly) Complete expedition 37 or 38 a total of 7 times",
+        "desc": "(Weekly) Complete expedition 37 หรือ 38  total of 7 times",
         "tracking": [ [0,7] ]
     },
     "413": {
         "code": "D12",
-        "name": "Strengthen the Operation of the BBV (Cont.)",
+        "name": "Strengthen the Operation of the เรือประจัญบานบรรทุกเครื่องบิน (BBV) (Cont.)",
         "desc": "Complete expedition 23 four more times"
     },
     "414": {
         "code": "D13",
-        "name": "Blue Waters Submarine Operation",
+        "name": "Blue Waters เรือดำน้ำ Operation",
         "desc": "Complete expedition 39"
     },
     "415": {
         "code": "D14",
-        "name": "Blue Waters Extended Submarine Operation",
+        "name": "Blue Waters Extended เรือดำน้ำ Operation",
         "desc": "Complete expedition 39 two more times"
     },
     "416": {
@@ -728,7 +728,7 @@
     },
     "417": {
         "code": "D16",
-        "name": "Deploy the Decoy Task Force",
+        "name": "ส่ง the Decoy Task Force",
         "desc": "Complete expedition 15"
     },
     "418": {
@@ -748,25 +748,25 @@
     
     "501": {
         "code": "E1",
-        "name": "First Supply",
-        "desc": "Resupply a ship"
+        "name": "เติมทรัพยากรณ์ครั้งแรก",
+        "desc": "เติมทรัพยากรณ์เรือ"
     },
     "502": {
         "code": "E2",
-        "name": "First Docking",
-        "desc": "Repair a ship"
+        "name": "ส่งเรือเข้าอู่ซ่อมเรือครั้งแรก",
+        "desc": "ซ่อมเรือ 1 ลำ"
     },
     "503": {
         "code": "E3",
-        "name": "Daily Repairs",
-        "desc": "Repair 5 ships",
+        "name": "ดำเนินการซ่อมแซมประจำวัน",
+        "desc": "ซ่อมเรือ 5 ลำ",
         "unlock": [ 504 ],
         "tracking": [ [0,5] ]
     },
     "504": {
         "code": "E4",
-        "name": "Daily Resupplies",
-        "desc": "Resupply your ships 15 times",
+        "name": "ดำเนินการเติมทรัพยากรณ์ประจำวัน",
+        "desc": "เติมทรัพยากรณ์เรือ 15 ครั้ง",
         "tracking": [ [0,15] ]
     },
     
@@ -776,98 +776,98 @@
     
     "605": {
         "code": "F1",
-        "name": "Daily Development 1",
-        "desc": "Craft a piece of equipment (Failures are OK)",
+        "name": "ดำเนินการผลิตยุทโธปกรณ์ #1",
+        "desc": "สร้างอุปกรณ์ 1 ครั้ง (ล้มเหลวได้)",
         "unlock": [ 606 ],
         "tracking": [ [0,1] ]
     },
     "606": {
         "code": "F2",
-        "name": "Daily Construction 1",
-        "desc": "Craft a ship",
+        "name": "ดำเนินการต่อเรือประจำวัน #1",
+        "desc": "ต่อเรือ 1 ลำ",
         "unlock": [ 607 ],
         "tracking": [ [0,1] ]
     },
     "607": {
         "code": "F3",
-        "name": "Daily Development 2",
-        "desc": "Craft 3 pieces of equipment (Failures are OK)",
+        "name": "ดำเนินการผลิตยุทโธปกรณ์ #2",
+        "desc": "สร้างอุปกรณ์ 3 ครั้ง (ล้มเหลวได้)",
         "unlock": [ 608 ],
         "tracking": [ [0,3] ]
     },
      "608": {
         "code": "F4",
-        "name": "Daily Construction 2",
-        "desc": "Craft 3 ships",
+        "name": "ดำเนินการต่อเรือประจำวัน #2",
+        "desc": "ต่อเรือ 3 ลำ",
         "unlock": [ 609, 619 ],
         "tracking": [ [0,3] ]
     },
      "609": {
         "code": "F5",
-        "name": "Daily Dismantlement",
-        "desc": "Scrap 2 ships",
+        "name": "ดำเนินการรื้อถอนประจำวัน",
+        "desc": "ทุบเรือ 2 ลำ",
         "tracking": [ [0,2] ]
     },
     "601": {
         "code": "F6",
-        "name": "First Construction",
-        "desc": "Craft a ship"
+        "name": "ต่อเรือครั้งแรก",
+        "desc": "ต่อเรือ 1 ลำ"
     },
     "602": {
         "code": "F7",
-        "name": "First Development",
-        "desc": "Craft a piece of equipment"
+        "name": "ผลิตยุทโธปกรณ์ครั้งแรก",
+        "desc": "สร้างอุปกรณ์ 1 ครั้ง"
     },
     "603": {
         "code": "F8",
-        "name": "First Dismantlement",
-        "desc": "Dismantle a ship"
+        "name": "การรื้อถอนครั้งแรก",
+        "desc": "ทุบเรือ 1 ลำ"
     },
     "604": {
         "code": "F9",
-        "name": "First Disposal",
-        "desc": "Scrap a piece of equipment"
+        "name": "การกำจัดยุทโธปกรณ์ครั้งแรก",
+        "desc": "ทุกอุปกรณ์ 1 ครั้ง"
     },
     "610": {
         "code": "F10",
-        "name": "Preparation for LSC (Part 2)",
-        "desc": "Scrap equipment 4 times"
+        "name": "การเตรียมการสำหรับการต่อเรือใหญ่ (ช่วงที่ 2)",
+        "desc": "ทุบอุปกรณ์ 4 ครั้ง"
     },
     "612": {
         "code": "F11",
-        "name": "Prepare the Drum Canisters",
-        "desc": "Scrap equipment 3 times"
+        "name": "เตรียม Drum Canister",
+        "desc": "ทุบอุปกรณ์ 3 ครั้ง"
     },
      "613": {
         "code": "F12",
-        "name": "Weekly Dismantlement",
-        "desc": "Scrap equipment 24 times",
+        "name": "ดำเนินการกำจัดยุทโธปกรณ์ประจำสัปดาห์",
+        "desc": "ทุบอุปกรณ์ 24 ครั้ง",
         "tracking": [ [0,24] ]
     },
      "614": {
         "code": "F13",
-        "name": "Model Conversion (Tomonaga Squadron to Tenzan)",
-        "desc": "Have flagship equipped with Type 97 Torpedo Bomber (Tomonaga Squadron), then scrap 2 Tenzan"
+        "name": "การแปลงโมเดล 「บรรจุ Tenzan ให้ฝูงบิน Tomonaga」",
+        "desc": "บรรจุ เรือธง equipped โดยมี Type 97 Torpedo Bomber (Tomonaga ชุดเรือ), then scrap 2 Tenzan"
     },
     "615": {
         "code": "F14",
-        "name": "Model Conversion (Egusa Squadron to Suisei)",
-        "desc": "Have flagship equipped with Type 99 Dive Bomber (Egusa Squadron), then scrap 2 Suisei"
+        "name": "การแปลงโมเดล 「บรรจุ Suisei ให้ฝูงบิน Egusa」",
+        "desc": "บรรจุ เรือธง equipped โดยมี Type 99 Dive Bomber (Egusa ชุดเรือ), then scrap 2 Suisei"
     },
     "616": {
         "code": "F15",
-        "name": "Model Conversion (601 Air Group to Reppuu)",
-        "desc": "Have flagship equipped with Zero Fighter Type 52 Type C (601 Air Group), then scrap 2 Reppuu"
+        "name": "การแปลงโมเดล 「บรรจุ Reppuu ให้กลุ่มบินที่ 601」",
+        "desc": "บรรจุ เรือธง equipped โดยมี Zero Fighter Type 52 Type C (601 Air Group), then scrap 2 Reppuu"
     },
     "617": {
         "code": "F16",
-        "name": "Preparing for Irako",
-        "desc": "Scrap equipment 10 times"
+        "name": "การเตรียมการสำหรับ Irako",
+        "desc": "ทุบอุปกรณ์ 10 ครั้ง"
     },
     "618": {
         "code": "F17",
-        "name": "First Equipment Modernisation",
-        "desc": "Perform equipment modernisation once"
+        "name": "พัฒนายุทโธปกรณ์ครั้งแรก",
+        "desc": "พัฒนายุทโธปกรณ์ 1 ครั้ง"
     },
     "619": {
         "code": "F18",
@@ -883,7 +883,7 @@
     "701": {
         "code": "G1",
         "name": "First Modernization",
-        "desc": "Perform a successful modernization"
+        "desc": "Perform  successful modernization"
     },
     "702": {
         "code": "G2",
@@ -908,7 +908,7 @@
     
     "611": {
         "name": "In Preparation of Love! (Part 1)",
-        "desc": "Scrap equipment 2 times to show your love!"
+        "desc": "Scrap equipment 2 times ที่ show your love!"
     },
     "306": {
         "name": "In Preparation of Love (Part 2)",
@@ -928,12 +928,12 @@
     "281": {
         "code": "SN03",
         "name": "Carry Out the Patrol for Main Force's Route",
-        "desc": "Sink 6 abyssal sumbarines"
+        "desc": "จม 6 น้ำลึก sumbarines"
     },
     "158": {
         "code": "SN04",
-        "name": "Assign the Murata Squadron Torpedo Bomber to Akagi",
-        "desc": "Set Akagi as the Secretary Ship and equip her with Type 97 Torpedo Bomber (Murata Squadron)"
+        "name": "Assign the Murata ชุดเรือ Torpedo Bomber ที่ Akagi",
+        "desc": "Set Akagi as the Secretary Ship และ equip her โดยมี Type 97 Torpedo Bomber (Murata ชุดเรือ)"
     },
     "282": {
         "code": "SN05",
@@ -942,8 +942,8 @@
     },
     "159": {
         "code": "SN06",
-        "name": "Reassign the Murata Squadron Torpedo Bomber to Shoukaku",
-        "desc": "Set Shoukaku as the Secretary Ship and equip her with Type 97 Torpedo Bomber (Murata Squadron)"
+        "name": "Reassign the Murata ชุดเรือ Torpedo Bomber ที่ Shoukaku",
+        "desc": "Set Shoukaku as the Secretary Ship และ equip her โดยมี Type 97 Torpedo Bomber (Murata ชุดเรือ)"
     },
     "310": {
         "code": "SN07",
@@ -952,22 +952,22 @@
     },
     "621": {
         "code": "SN08",
-        "name": "Model Conversion (Murata Squadron to Tenzan)",
-        "desc": "Have Shoukaku as the Secretary Ship and equip her with Type 97 Torpedo Bomber (Murata Squadron), then scrap 2 Tenzan"
+        "name": "Model Conversion (Murata ชุดเรือ ที่ Tenzan)",
+        "desc": "บรรจุ Shoukaku as the Secretary Ship และ equip her โดยมี Type 97 Torpedo Bomber (Murata ชุดเรือ), then scrap 2 Tenzan"
     },
     "160": {
         "code": "SN09",
-        "name": "Organize the Third Fleet of the Carrier Task Force",
-        "desc": "Create a Carrier Task Force (Combined Fleet) containing Shoukaku, Zuikaku and Zuihou in the first fleet"
+        "name": "Organize the Third กองเรือ of the Carrier Task Force",
+        "desc": "Create  Carrier Task Force (Combined กองเรือ) containing Shoukaku, Zuikaku และ Zuihou in the first กองเรือ"
     },
     "284": {
         "code": "SN10",
-        "name": "Establish a Bridgehead to Operation FS",
-        "desc": "Sink 10 Abyssal CV(L)"
+        "name": "Establish  Bridgehead ที่ Operation FS",
+        "desc": "จม 10 น้ำลึก เรือบรรทุกเครื่องบินมาตรฐาน (AV)(L)"
     },
     "283": {
         "code": "SN11",
-        "name": "Eastern Area Dispatch Fleet, Sortie!",
+        "name": "Eastern Area Dispatch กองเรือ, ออกรบ!",
         "desc": "Clear the Summer 2015 Event Map 5"
     }
     
