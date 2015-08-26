@@ -1,102 +1,102 @@
 {
 	"203.104.209.71": {
 		"num": 1,
-		"name": "Yokosuka Naval District",
+		"name": "Yokosuka Naval District มณฑลทหารเรือโยโกสุกะ",
 		"ip": "203.104.209.71"
 	},
 	"125.6.184.15": {
 		"num": 2,
-		"name": "Kure Naval District",
+		"name": "Kure Naval District มณฑลทหารเรือคุเระ",
 		"ip": "125.6.184.15"
 	},
 	"125.6.184.16": {
 		"num": 3,
-		"name": "Sasebo Naval District",
+		"name": "Sasebo Naval District มณฑลทหารเรือซาเซโบะ",
 		"ip": "125.6.184.16"
 	},
 	"125.6.187.205": {
 		"num": 4,
-		"name": "Maizuru Naval District",
+		"name": "Maizuru Naval District มณฑลทหารเรือไมซึรุ",
 		"ip": "125.6.187.205"
 	},
 	"125.6.187.229": {
 		"num": 5,
-		"name": "Ominato Guard District",
+		"name": "Ominato Guard District ฐานป้องกันโอมินาโตะ",
 		"ip": "125.6.187.229"
 	},
 	"125.6.187.253": {
 		"num": 6,
-		"name": "Truk Anchorage",
+		"name": "Truk Anchorage ท่าเรือทรัก",
 		"ip": "125.6.187.253"
 	},
 	"125.6.188.25": {
 		"num": 7,
-		"name": "Lingga Anchorage",
+		"name": "Lingga Anchorage ท่าเรือหมู่เกาะลิงงา",
 		"ip": "125.6.188.25"
 	},
 	"203.104.248.135": {
 		"num": 8,
-		"name": "Rabaul Naval Base",
+		"name": "Rabaul Naval Base ฐานทัพเรือหมุ่เกาะราเบาว์",
 		"ip": "203.104.248.135"
 	},
 	"125.6.189.7": {
 		"num": 9,
-		"name": "Shortland Anchorage",
+		"name": "Shortland Anchorage ท่าเรือหมู่เกาะช็อตแลนด์",
 		"ip": "125.6.189.7"
 	},
 	"125.6.189.39": {
 		"num": 10,
-		"name": "Buin Naval Base",
+		"name": "Buin Naval Base ฐานทัพเรือบุอิน",
 		"ip": "125.6.189.39"
 	},
 	"125.6.189.71": {
 		"num": 11,
-		"name": "Tawi-Tawi Anchorage",
+		"name": "Tawi-Tawi Anchorage ท่าเรือทะวีทะวี",
 		"ip": "125.6.189.71"
 	},
 	"125.6.189.103": {
 		"num": 12,
-		"name": "Palau Anchorage",
+		"name": "Palau Anchorage ท่าเรือปาเลา",
 		"ip": "125.6.189.103"
 	},
 	"125.6.189.135": {
 		"num": 13,
-		"name": "Brunei Anchorage",
+		"name": "Brunei Anchorage ท่าเรือบรูไนย์",
 		"ip": "125.6.189.135"
 	},
 	"125.6.189.167": {
 		"num": 14,
-		"name": "Hitokappu Bay Anchorage",
+		"name": "Hitokappu Bay Anchorage ท่าเรืออ่าวฮิโตกัปปุ",
 		"ip": "125.6.189.167"
 	},
 	"125.6.189.215": {
 		"num": 15,
-		"name": "Paramushir Anchorage",
+		"name": "Paramushir Anchorage ท่าเรือพารามุเชียร์",
 		"ip": "125.6.189.215"
 	},
 	"125.6.189.247": {
 		"num": 16,
-		"name": "Sukumo Bay Anchorage",
+		"name": "Sukumo Bay Anchorage ท่าเรือสุคุโมะ",
 		"ip": "125.6.189.247"
 	},
 	"203.104.209.23": {
 		"num": 17,
-		"name": "Kanoya Airfield",
+		"name": "Kanoya Airfield ฐานทัพอากาศคาโนยะ",
 		"ip": "203.104.209.23"
 	},
 	"203.104.209.39": {
 		"num": 18,
-		"name": "Iwagawa Airfield",
+		"name": "Iwagawa Airfield ฐานทัพอากาศอิวากาวะ",
 		"ip": "203.104.209.39"
 	},
 	"203.104.209.55": {
 		"num": 19,
-		"name": "Saiki Bay Anchorage",
+		"name": "Saiki Bay Anchorage ท่าเรืออ่าวไซกิ",
 		"ip": "203.104.209.55"
 	},
 	"203.104.209.102": {
 		"num": 20,
-		"name": "Hashirajima Anchorage",
+		"name": "Hashirajima Anchorage ท่าเรือฮาชิราจิมะ",
 		"ip": "203.104.209.102"
 	}
 }
