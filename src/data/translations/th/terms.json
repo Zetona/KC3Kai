@@ -1,4 +1,4 @@
-{
+﻿{
 	"available": true,
 	
 	"SortieWinCount": "ออกรบชนะ (ครั้ง)",
@@ -105,7 +105,7 @@
 	"SettingsMoraleValue" : "Morale Minimum",
 	"SettingsSeconds" : "วินาที",
 	"SettingsSoundType" : "เสียงแจ้งเตือน",
-	"SettingsDing" : ""ติ๊ง!"",
+	"SettingsDing" : "ติ๊ง!",
 	"SettingsCustom" : "กำหนดเอง",
 	"SettingsCustomSound" : "กำหนดเองจาก URL",
 	"SettingsDesktopNotif" : "การแจ้งเตือนบนเดสก์ท็อป",
